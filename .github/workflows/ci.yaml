@@ -1,5 +1,8 @@
 name: GH Actions CI
-on:      
+on: 
+  push:
+    branches:
+      - gh-pages     
   pull_request:
     branches:
       - gh-pages
@@ -8,7 +11,9 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Check out branch
+        # using version 2 of https://github.com/actions/checkout
+        uses: actions/checkout@v2
 
       - name: Setup ruby environment
         uses: ruby/setup-ruby@v1
