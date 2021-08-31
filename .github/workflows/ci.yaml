@@ -1,0 +1,27 @@
+name: GH Actions CI
+on:
+  push:
+    branches:
+      - try-ci
+      
+  pull_request:
+    branches:
+      - gh-pages
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup ruby environment
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0.0
+          bundler-cache: true # caches installed gems
+      
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Test build
+        run: bundle exec jekyll build
