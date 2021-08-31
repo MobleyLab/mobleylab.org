@@ -16,7 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
+- {icon: 'twitter', link:    'https://twitter.com/davidlmobley'}
 - {icon: 'github', link:   'https://github.com/MobleyLab'}
 - {icon: 'envelope', link:   'mailto:dmobley@mobleylab.org'}
 - {icon: 'rss-square', link: 'feed.xml'}
