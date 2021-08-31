@@ -1,9 +1,5 @@
 name: GH Actions CI
-on:
-  push:
-    branches:
-      - try-ci
-      
+on:      
   pull_request:
     branches:
       - gh-pages
