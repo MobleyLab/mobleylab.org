@@ -3,6 +3,7 @@ on:
   pull_request:
     branches:
       - gh-pages
+      - try-ci
 
 jobs:
   test:
