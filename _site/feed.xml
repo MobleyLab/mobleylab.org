@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-09-07T13:55:15-07:00</updated><id>/feed.xml</id><title type="html">Mobley Lab</title><subtitle>A research group website</subtitle><author><name>the Mobley lab members</name></author><entry><title type="html">Welcome to Millennial!</title><link href="/welcome-to-millennial" rel="alternate" type="text/html" title="Welcome to Millennial!" /><published>2017-01-01T00:00:00-08:00</published><updated>2017-01-01T00:00:00-08:00</updated><id>/welcome-to-millennial</id><content type="html" xml:base="/welcome-to-millennial">&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/getting-started&quot;&gt;Getting Started&lt;/a&gt;: getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.&lt;/p&gt;
+
+&lt;h2 id=&quot;example-content&quot;&gt;Example Content&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/text-formatting&quot;&gt;Text and Formatting&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
+
+&lt;p&gt;This theme is completely free and open source software. You may use it however you want, as it is distributed under the &lt;a href=&quot;http://choosealicense.com/licenses/mit/&quot;&gt;MIT License&lt;/a&gt;. If you are having any problems, any questions or suggestions, feel free to &lt;a href=&quot;https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele&quot;&gt;tweet at me&lt;/a&gt;, or &lt;a href=&quot;https://github.com/lenpaul/Millennial/issues/new&quot;&gt;file a GitHub issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-jekyll&quot;&gt;More Jekyll!&lt;/h2&gt;
+
+&lt;h3 id=&quot;lagrange&quot;&gt;Lagrange&lt;/h3&gt;
+
+&lt;p&gt;Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.&lt;/p&gt;
+
+&lt;p&gt;Feel free to check out &lt;a href=&quot;https://lenpaul.github.io/Lagrange/&quot; target=&quot;_blank&quot;&gt;the demo&lt;/a&gt;, where you’ll also find instructions on &lt;a href=&quot;https://lenpaul.github.io/Lagrange/journal/getting-started.html&quot;&gt;how to use install&lt;/a&gt; and use the theme.&lt;/p&gt;
+
+&lt;h3 id=&quot;portfolio-jekyll-theme&quot;&gt;Portfolio Jekyll Theme&lt;/h3&gt;
+
+&lt;p&gt;This is a Jekyll theme built using the &lt;a href=&quot;http://devtipsstarterkit.com/&quot;&gt;DevTips Starter Kit&lt;/a&gt; as a foundation for starting, and following closely the amazing tutorial by &lt;a href=&quot;https://www.youtube.com/watch?v=T6jKLsxbFg4&amp;amp;list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P&quot;&gt;Travis Neilson over at DevTips&lt;/a&gt;. The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.&lt;/p&gt;
+
+&lt;p&gt;Everything that you will ever need to know about this Jekyll theme is included in &lt;a href=&quot;https://github.com/LeNPaul/portfolio-jekyll-theme&quot;&gt;the repository&lt;/a&gt;, which you can also find in &lt;a href=&quot;https://lenpaul.github.io/portfolio-jekyll-theme/&quot;&gt;the demo site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-starter-kit&quot;&gt;Jekyll Starter Kit&lt;/h3&gt;
+
+&lt;p&gt;The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.&lt;/p&gt;
+
+&lt;p&gt;Feel free to check out &lt;a href=&quot;https://github.com/LeNPaul/jekyll-starter-kit&quot; target=&quot;_blank&quot;&gt;the GitHub repository&lt;/a&gt;, where you’ll also find instructions on how to use install and use the theme.&lt;/p&gt;</content><author><name>Paul Le</name></author><category term="documentation" /><category term="documentation" /><category term="sample" /><summary type="html">Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/cuba-1.jpg" /><media:content medium="image" url="/cuba-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Getting Started</title><link href="/getting-started" rel="alternate" type="text/html" title="Getting Started" /><published>2016-10-10T00:00:00-07:00</published><updated>2016-10-10T00:00:00-07:00</updated><id>/getting-started</id><content type="html" xml:base="/getting-started">&lt;h1 id=&quot;millennial&quot;&gt;Millennial&lt;/h1&gt;
+
+&lt;p&gt;Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in &lt;a href=&quot;https://lenpaul.github.io/Millennial/&quot;&gt;the demo site&lt;/a&gt;. For a guide on how to start a blog or personal website using Jekyll and GitHub Pages, please check out &lt;a href=&quot;https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages&quot;&gt;this article&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png&quot; alt=&quot;alt text&quot; title=&quot;Millennial Demo Image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notable-features&quot;&gt;Notable features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Compatible with GitHub Pages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Support for Jekyll’s built-in Sass/SCSS preprocessor and data files for making customizing easier.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/analytics/&quot;&gt;Google Analytics&lt;/a&gt; support.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Commenting support powered by &lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Optimized for search engines.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;LaTeX support through &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#what-is-jekyll&quot;&gt;What is Jekyll&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#never-used-jekyll-before&quot;&gt;Never Used Jeykll Before?&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;Installation&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#github-pages-installation&quot;&gt;GitHub Pages Installation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#local-installation&quot;&gt;Local Installation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#directory-structure&quot;&gt;Directory Structure&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#starting-from-scratch&quot;&gt;Starting From Scratch&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#configuration&quot;&gt;Configuration&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#sample-posts&quot;&gt;Sample Posts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#site-variables&quot;&gt;Site Variables&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#adding-menu-pages&quot;&gt;Adding Menu Pages&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#posts&quot;&gt;Posts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#layouts&quot;&gt;Layouts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#yaml-front-block-matter&quot;&gt;YAML Front Block Matter&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#features&quot;&gt;Features&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#design-considerations&quot;&gt;Design Considerations&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#disqus&quot;&gt;Disqus&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#google-analytics&quot;&gt;Google Analytics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#rss-feeds&quot;&gt;RSS Feeds&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#social-media-icons&quot;&gt;Social Media Icons&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#mathjax&quot;&gt;MathJax&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#markdown&quot;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#everything-else&quot;&gt;Everything Else&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Contributing&quot;&gt;Contributing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#questions&quot;&gt;Questions?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#credits&quot;&gt;Credits&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#license&quot;&gt;License&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Millennial is a Jekyll theme that was built to be 100% compatible with &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. If you are unfamiliar with GitHub Pages, you can check out &lt;a href=&quot;https://help.github.com/categories/github-pages-basics/&quot;&gt;their documentation&lt;/a&gt; for more information. &lt;a href=&quot;http://jmcglone.com/guides/github-pages/&quot;&gt;Jonathan McGlone’s guide&lt;/a&gt; on creating and hosting a personal site on GitHub is also a good resource.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Basically, Jekyll takes your page content along with template files and produces a complete website. For more information, visit the &lt;a href=&quot;https://jekyllrb.com/docs/home/&quot;&gt;official Jekyll site&lt;/a&gt; for their documentation. Codecademy also offers a great course on &lt;a href=&quot;https://www.codecademy.com/learn/deploy-a-website&quot;&gt;how to deploy a Jekyll site&lt;/a&gt; for complete beginners.&lt;/p&gt;
+
+&lt;h3 id=&quot;never-used-jekyll-before&quot;&gt;Never Used Jekyll Before?&lt;/h3&gt;
+
+&lt;p&gt;The beauty of hosting your website on GitHub is that you don’t have to actually have Jekyll installed on your computer. Everything can be done through the GitHub code editor, with minimal knowledge of how to use Jekyll or the command line. All you have to do is add your posts to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory and edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to change the site settings. With some rudimentary knowledge of HTML and CSS, you can even modify the site to your liking. This can all be done through the GitHub code editor, which acts like a content management system (CMS).&lt;/p&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;h3 id=&quot;github-pages-installation&quot;&gt;GitHub Pages Installation&lt;/h3&gt;
+
+&lt;p&gt;To start using Jekyll right away with GitHub Pages, &lt;a href=&quot;https://github.com/LeNPaul/Millennial/fork&quot;&gt;fork the Millennial repository on GitHub&lt;/a&gt;. From there, you can rename your repository to ‘USERNAME.github.io’, where ‘USERNAME’ is your GitHub username, and edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder to your liking. Ensure that you have a branch named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt;. Your website should be ready immediately at ‘http://USERNAME.github.io’. Note: if you are hosting several sites under the same GitHub username, then you will have to use &lt;a href=&quot;https://help.github.com/articles/user-organization-and-project-pages/&quot;&gt;Project Pages instead of User Pages&lt;/a&gt; - just change the repository name to something other than ‘http://USERNAME.github.io’.&lt;/p&gt;
+
+&lt;p&gt;Head over to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory to view all the posts that are currently on the website, and to see examples of what post files generally look like. You can simply just duplicate the template post and start adding your own content.&lt;/p&gt;
+
+&lt;h3 id=&quot;local-installation&quot;&gt;Local Installation&lt;/h3&gt;
+
+&lt;p&gt;For a full local installation of Millennial, &lt;a href=&quot;https://github.com/LeNPaul/Millennial/archive/gh-pages.zip&quot;&gt;download your own copy of Millennial&lt;/a&gt; and unzip it into it’s own directory. From there, open up your favorite command line tool, enter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;, and then enter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;. Your site should be up and running locally at &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;directory-structure&quot;&gt;Directory Structure&lt;/h3&gt;
+
+&lt;p&gt;If you are familiar with Jekyll, then the Millennial directory structure shouldn’t be too difficult to navigate. The following some highlights of the differences you might notice between the default directory structure. More information on what these folders and files do can be found in the &lt;a href=&quot;https://jekyllrb.com/docs/structure/&quot;&gt;Jekyll documentation site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Millennial/
+├── _data                      &lt;span class=&quot;c&quot;&gt;# Data files&lt;/span&gt;
+|  └── settings.yml            &lt;span class=&quot;c&quot;&gt;# Theme settings and custom text&lt;/span&gt;
+├── _includes                  &lt;span class=&quot;c&quot;&gt;# Theme includes&lt;/span&gt;
+├── _layouts                   &lt;span class=&quot;c&quot;&gt;# Theme layouts (see below for details)&lt;/span&gt;
+├── _posts                     &lt;span class=&quot;c&quot;&gt;# Where all your posts will go&lt;/span&gt;
+├── assets                     &lt;span class=&quot;c&quot;&gt;# Style sheets and images are found here&lt;/span&gt;
+|  ├── css                     &lt;span class=&quot;c&quot;&gt;# Style sheets go here&lt;/span&gt;
+|  |  └── _sass                &lt;span class=&quot;c&quot;&gt;# Folder containing SCSS files&lt;/span&gt;
+|  |  └── main.scss            &lt;span class=&quot;c&quot;&gt;# Main SCSS file&lt;/span&gt;
+|  |  └── syntax.css           &lt;span class=&quot;c&quot;&gt;# Style sheet for code syntax highlighting&lt;/span&gt;
+|  └── img                     &lt;span class=&quot;c&quot;&gt;# Images go here&lt;/span&gt;
+├── pages                      &lt;span class=&quot;c&quot;&gt;# Category pages&lt;/span&gt;
+├── _config.yml                &lt;span class=&quot;c&quot;&gt;# Site build settings&lt;/span&gt;
+├── Gemfile                    &lt;span class=&quot;c&quot;&gt;# Ruby Gemfile for managing Jekyll plugins&lt;/span&gt;
+├── index.md                   &lt;span class=&quot;c&quot;&gt;# Home page&lt;/span&gt;
+├── LICENSE.md                 &lt;span class=&quot;c&quot;&gt;# License for this theme&lt;/span&gt;
+├── README.md                  &lt;span class=&quot;c&quot;&gt;# Includes all of the documentation for this theme&lt;/span&gt;
+└── rss-feed.xml               &lt;span class=&quot;c&quot;&gt;# Generates RSS 2.0 file which Jekyll points to&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;starting-from-scratch&quot;&gt;Starting From Scratch&lt;/h3&gt;
+
+&lt;p&gt;To completely start from scratch, simply delete all the files in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/img&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pages&lt;/code&gt; folder, and add your own content. You may also replace the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;README.md&lt;/code&gt; file with your own README. Everything in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file can be edited to suit your needs. You may also change the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;favicon.ico&lt;/code&gt; file to your own favicon.&lt;/p&gt;
+
+&lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
+
+&lt;h3 id=&quot;sample-posts&quot;&gt;Sample Posts&lt;/h3&gt;
+
+&lt;p&gt;Visit the &lt;a href=&quot;https://lenpaul.github.io/Millennial/&quot;&gt;the demo site&lt;/a&gt; to find sample posts that show what different types of text formatting look like. You can find these posts in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, which show what the best practices for setting up your own site are.&lt;/p&gt;
+
+&lt;h3 id=&quot;site-variables&quot;&gt;Site Variables&lt;/h3&gt;
+
+&lt;p&gt;To change site build settings, edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file found in the root of your repository, which you can tweak however you like. More information on configuration settings and plugins can be found on &lt;a href=&quot;https://jekyllrb.com/docs/configuration/&quot;&gt;the Jekyll documentation site&lt;/a&gt;. This is also where you will be able to customize the title, description, and the author/owner of your site.&lt;/p&gt;
+
+&lt;p&gt;If you are hosting your site on GitHub Pages, then committing a change to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file will force a rebuild of your site with Jekyll. Any changes made should be viewable soon after. If you are hosting your site locally, then you must run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; again for the changes to take place.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file found in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder, you will be able to customize your site settings, such as setting Disqus comments, Google Analytics, what shows up in your menu, and social media information.&lt;/p&gt;
+
+&lt;h3 id=&quot;adding-menu-pages&quot;&gt;Adding Menu Pages&lt;/h3&gt;
+
+&lt;p&gt;The menu pages are found in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;menu&lt;/code&gt; folder in the root directory, and can be added to your menu in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
+
+&lt;p&gt;You will find example posts in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit any post and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.md&lt;/code&gt; and includes the necessary front matter. Take a look at any sample post to get an idea about how it works. If you already have a website built with Jekyll, simply copy over your posts to migrate to Millennial.&lt;/p&gt;
+
+&lt;h3 id=&quot;layouts&quot;&gt;Layouts&lt;/h3&gt;
+
+&lt;p&gt;There are two main layout options that are included with Millennial: post and page. Layouts are specified through the &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML front block matter&lt;/a&gt;. Any file that contains a YAML front block matter will be processed by Jekyll. For example:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: post
+title: &quot;Example Post&quot;
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Examples of what posts looks like can be found in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory, which includes this post you are reading right now. Posts are the basic blog post layout, which includes a header image, post content, author name, date published, social media sharing links, and related posts.&lt;/p&gt;
+
+&lt;p&gt;Pages are essentially the post layout without any of the extra features of the posts layout. An example of what pages look like can be found at the &lt;a href=&quot;https://lenpaul.github.io/Millennial/pages/documentation.html&quot;&gt;documentation page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition to the two main layout options above, there are also custom layouts that have been created for the &lt;a href=&quot;https://lenpaul.github.io/Millennial/&quot;&gt;home page&lt;/a&gt; and the &lt;a href=&quot;https://lenpaul.github.io/Millennial/pages/contact.html&quot;&gt;contacts page&lt;/a&gt;. These are simply just page layouts with some &lt;a href=&quot;https://shopify.github.io/liquid/&quot;&gt;Liquid template code&lt;/a&gt;. Check out the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;index.html&lt;/code&gt; file in the root directory for what the code looks like.&lt;/p&gt;
+
+&lt;h3 id=&quot;yaml-front-block-matter&quot;&gt;YAML Front Block Matter&lt;/h3&gt;
+
+&lt;p&gt;The recommended YAML front block is:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout:
+title:
+author:
+categories:
+tags: []
+image:
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout&lt;/code&gt; specifies which layout to use, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; is the page or post title, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;categories&lt;/code&gt; can be used to better organize your posts, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tags&lt;/code&gt; are used when generating related posts based on the topic of the post, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt; specifies which images to use. Have a look at some posts in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory to see how these variables are set.&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+
+&lt;h3 id=&quot;design-considerations&quot;&gt;Design Considerations&lt;/h3&gt;
+
+&lt;p&gt;Millennial was designed to be a minimalist theme in order for the focus to remain on your content. For example, links are signified mainly through an underline text-decoration, in order to maximize the perceived affordance of clickability (I originally just wanted to make the links a darker shade of grey).&lt;/p&gt;
+
+&lt;h3 id=&quot;disqus&quot;&gt;Disqus&lt;/h3&gt;
+
+&lt;p&gt;Millennial supports comments at the end of posts through &lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus&lt;/a&gt;. In order to activate Disqus commenting, set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus.comments&lt;/code&gt; to true in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/settings.yml&lt;/code&gt; file. If you do not have a Disqus account already, you will have to set one up, and create a profile for your website. You will be given a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt; that will be used to generate the appropriate comments sections for your site. More information on &lt;a href=&quot;http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/&quot;&gt;how to set up Disqus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;google-analytics&quot;&gt;Google Analytics&lt;/h3&gt;
+
+&lt;p&gt;It is possible to track your site statistics through &lt;a href=&quot;https://www.google.com/analytics/&quot;&gt;Google Analytics&lt;/a&gt;. Similar to Disqus, you will have to create an account for Google Analytics, and enter the correct Google ID for your site under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;google-ID&lt;/code&gt; in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file. More information on &lt;a href=&quot;https://michaelsoolee.com/google-analytics-jekyll/&quot;&gt;how to set up Google Analytics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;rss-feeds&quot;&gt;RSS Feeds&lt;/h3&gt;
+
+&lt;p&gt;Atom is supported by default through &lt;a href=&quot;https://github.com/jekyll/jekyll-feed&quot;&gt;jekyll-feed&lt;/a&gt;. With jekyll-feed, you can set configuration variables such as ‘title’, ‘description’, and ‘author’, in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;p&gt;RSS 2.0 is also supported through &lt;a href=&quot;http://www.rssboard.org/rss-autodiscovery&quot;&gt;RSS auto-discovery&lt;/a&gt;. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rss-feed.xml&lt;/code&gt; file (based on the template found at &lt;a href=&quot;https://github.com/snaptortoise/jekyll-rss-feeds&quot;&gt;jekyll-rss-feeds&lt;/a&gt;) that the feed path points to when using RSS 2.0 is automatically generated based on the appropriate configuration variables found in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/settings.yml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;To use RSS 2.0, ensure the following is done:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Uncomment the last two lines in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/settings.yml&lt;/code&gt;, under ‘social’, comment out the rss-square that points to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;feed.xml&lt;/code&gt;, and uncomment the rss-square that points to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rss-feed.xml&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes/head.html&lt;/code&gt;, comment out &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;link type=&quot;application/atom+xml&quot; rel=&quot;alternate&quot; href=&quot;/feed.xml&quot; title=&quot;Mobley Lab&quot; /&amp;gt;&lt;/code&gt; and uncomment the line under the RSS 2.0 comment.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;social-media-icons&quot;&gt;Social Media Icons&lt;/h3&gt;
+
+&lt;p&gt;All social media icons are courtesy of &lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt;. You can change which icons appear, as well as the account that they link to, in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;h3 id=&quot;mathjax&quot;&gt;MathJax&lt;/h3&gt;
+
+&lt;p&gt;Millennial comes out of the box with &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt;, which allows you to display mathematical equations in your posts through the use of &lt;a href=&quot;http://www.andy-roberts.net/writing/latex/mathematics_1&quot;&gt;LaTeX&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/h3&gt;
+
+&lt;p&gt;Millennial provides syntax highlighting through &lt;a href=&quot;https://help.github.com/articles/creating-and-highlighting-code-blocks/&quot;&gt;fenced code blocks&lt;/a&gt;. Syntax highlighting allows you to display source code in different colors and fonts depending on what programming language is being displayed. You can find the full list of supported programming languages &lt;a href=&quot;https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers&quot;&gt;here&lt;/a&gt;. Another option is to embed your code through &lt;a href=&quot;https://en.support.wordpress.com/gist/&quot;&gt;Gist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
+
+&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory as well as the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;README.md&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;h2 id=&quot;everything-else&quot;&gt;Everything Else&lt;/h2&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;contributing&quot;&gt;Contributing&lt;/h2&gt;
+
+&lt;p&gt;If you would like to make a feature request, or report a bug or typo in the documentation, then please &lt;a href=&quot;https://github.com/LeNPaul/Millennial/issues/new&quot;&gt;submit a GitHub issue&lt;/a&gt;. If you would like to make a contribution, then feel free to &lt;a href=&quot;https://help.github.com/articles/about-pull-requests/&quot;&gt;submit a pull request&lt;/a&gt; - as a bonus, I will credit all contributors below! If this is your first pull request, it may be helpful to read up on the &lt;a href=&quot;https://guides.github.com/introduction/flow/&quot;&gt;GitHub Flow&lt;/a&gt; first.&lt;/p&gt;
+
+&lt;p&gt;Millennial has been designed as a base for users to customize and fit to their own unique needs. Please keep this in mind when requesting features and/or submitting pull requests. Some examples of changes that I would love to see are things that would make the site easier to use, or better ways of doing things. Please avoid changes that do not benefit the majority of users.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
+
+&lt;p&gt;This theme is completely free and open source software. You may use it however you want, as it is distributed under the &lt;a href=&quot;http://choosealicense.com/licenses/mit/&quot;&gt;MIT License&lt;/a&gt;. If you are having any problems, any questions or suggestions, feel free to &lt;a href=&quot;https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;amp;via=paululele&quot;&gt;tweet at me&lt;/a&gt;, or &lt;a href=&quot;https://github.com/lenpaul/Millennial/issues/new&quot;&gt;file a GitHub issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;h3 id=&quot;creator&quot;&gt;Creator&lt;/h3&gt;
+
+&lt;h4 id=&quot;paul-le&quot;&gt;Paul Le&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://lenpaul.com&quot;&gt;www.lenpaul.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/paululele&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/LeNPaul&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;contributors&quot;&gt;Contributors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/b-morawiec&quot;&gt;b-morawiec&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/JainVikas&quot;&gt;JainVikas&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/mschaeffner&quot;&gt;mschaeffner&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/cfe316&quot;&gt;cfe316&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/JeremyGonzales&quot;&gt;JeremyGonzales&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;icons--demo-images&quot;&gt;Icons + Demo Images&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://deathtothestockphoto.com/&quot;&gt;Death to Stock&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;other&quot;&gt;Other&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org&quot;&gt;Free Code Camp&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Open sourced under the &lt;a href=&quot;https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md&quot;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;</content><author><name>Paul Le</name></author><category term="documentation" /><category term="documentation" /><category term="sample" /><summary type="html">Millennial</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/city-1.jpg" /><media:content medium="image" url="/city-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Text Formatting</title><link href="/text-formatting" rel="alternate" type="text/html" title="Text Formatting" /><published>2016-09-09T00:00:00-07:00</published><updated>2016-09-09T00:00:00-07:00</updated><id>/text-formatting</id><content type="html" xml:base="/text-formatting">&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
+
+&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic Formatting&lt;/h2&gt;
+
+&lt;p&gt;With Markdown, it is possible to emphasize words by making them &lt;em&gt;italicized&lt;/em&gt;, using &lt;em&gt;astericks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;, or making them &lt;strong&gt;bold&lt;/strong&gt;, using &lt;strong&gt;double astericks&lt;/strong&gt; or &lt;strong&gt;double underscores&lt;/strong&gt;. Of course, you can combine those two formats, with both &lt;em&gt;&lt;strong&gt;bold and italicized&lt;/strong&gt;&lt;/em&gt; text, using any combination of the above syntax. You can also add a strikethrough to text using a &lt;del&gt;double tilde&lt;/del&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;paragraphs&quot;&gt;Paragraphs&lt;/h2&gt;
+
+&lt;p&gt;This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
+
+&lt;p&gt;Sometimes it is useful to have different levels of headings to structure your documents. Start lines with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#&lt;/code&gt; to create headings. Multiple &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;##&lt;/code&gt; in a row denote smaller heading size. The following demonstrate the full range of heading sizes:&lt;/p&gt;
+
+&lt;h1 id=&quot;heading-one-h1&quot;&gt;Heading One (h1)&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-two-h2&quot;&gt;Heading Two (h2)&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-three-h3&quot;&gt;Heading Three (h3)&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-four-h4&quot;&gt;Heading Four (h4)&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-five-h5&quot;&gt;Heading Five (h5)&lt;/h5&gt;
+
+&lt;h6 id=&quot;heading-six-h6&quot;&gt;Heading Six (h6)&lt;/h6&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;You can create an inline link by wrapping link text in square brackets &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[ ]&lt;/code&gt;, and then wrapping the URL in parentheses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;( )&lt;/code&gt;. For example, it is very easy to &lt;a href=&quot;http://google.com&quot;&gt;link to Google!&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
+
+&lt;p&gt;Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This quote will change your life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Multi line blockquote with a cite reference:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;code-and-syntax-highlighting&quot;&gt;Code and Syntax Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn’t. However, many renderers - like GitHub or most Jekyll themes - support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. You can find the full list of supported programming languages &lt;a href=&quot;https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers&quot;&gt;here&lt;/a&gt;. Also, it is possible to do &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;inline code blocks&lt;/code&gt;, by wrapping the text in ` ` ` quotations.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Another option is to embed your code through &lt;a href=&quot;https://en.support.wordpress.com/gist/&quot;&gt;Gist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;unordered-and-numbered-lists&quot;&gt;Unordered and Numbered Lists&lt;/h2&gt;
+
+&lt;p&gt;You can make an unordered and nested list by preceding one or more lines of text with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*&lt;/code&gt;, or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt;, and indenting sublists. The following lists show the full range of possible list formats.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List item one
+    &lt;ul&gt;
+      &lt;li&gt;List item one
+        &lt;ul&gt;
+          &lt;li&gt;List item one&lt;/li&gt;
+          &lt;li&gt;List item two&lt;/li&gt;
+          &lt;li&gt;List item three&lt;/li&gt;
+          &lt;li&gt;List item four&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List item two&lt;/li&gt;
+      &lt;li&gt;List item three&lt;/li&gt;
+      &lt;li&gt;List item four&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+  &lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Numbered lists are made by using numbers instead of bullet points.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List item one
+    &lt;ol&gt;
+      &lt;li&gt;List item one
+        &lt;ol&gt;
+          &lt;li&gt;List item one&lt;/li&gt;
+          &lt;li&gt;List item two&lt;/li&gt;
+          &lt;li&gt;List item three&lt;/li&gt;
+          &lt;li&gt;List item four&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List item two&lt;/li&gt;
+      &lt;li&gt;List item three&lt;/li&gt;
+      &lt;li&gt;List item four&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+  &lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;mathjax-example&quot;&gt;MathJax Example&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation&quot;&gt;Schrödinger equation&lt;/a&gt; is a partial differential equation that describes how the quantum state of a quantum system changes with time:&lt;/p&gt;
+
+\[i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)\]
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange&quot;&gt;Joseph-Louis Lagrange&lt;/a&gt; was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.&lt;/p&gt;
+
+\[\frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j}\]
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Title 1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Title 2&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Title 3&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Title 4&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;embedding&quot;&gt;Embedding&lt;/h2&gt;
+
+&lt;p&gt;Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mthtn1X4eUY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a class=&quot;twitter-grid&quot; data-partner=&quot;tweetdeck&quot; href=&quot;https://twitter.com/paululele/timelines/755079130027352064&quot;&gt;New Collection&lt;/a&gt; &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, which you can mix with Markdown if you like. A complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;useful-resources&quot;&gt;Useful Resources&lt;/h2&gt;
+
+&lt;p&gt;More information on Markdown can be found at the following links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code&quot;&gt;Markdown Here Cheatsheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html&quot;&gt;Quick Markdown Example&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://daringfireball.net/projects/markdown/basics&quot;&gt;Markdown Basics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.github.com/gfm/&quot;&gt;GitHub Flavoured Markdown Spec&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists&quot;&gt;Basic writing and formatting syntax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Paul Le</name></author><category term="sample" /><category term="sample" /><summary type="html">Markdown Support</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/arctic-1.jpg" /><media:content medium="image" url="/arctic-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

@@ -1,0 +1,205 @@
+/* Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/* Basic styling */
+/* Headings */
+h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: bold; line-height: 1.25; text-rendering: optimizeLegibility; }
+
+h1 { font-size: 2rem; }
+
+h2 { margin-top: 1rem; font-size: 1.5rem; }
+
+h3 { margin-top: 1.5rem; font-size: 1.25rem; }
+
+h4, h5, h6 { margin-top: 1rem; font-size: 1rem; }
+
+/* Body */
+body { font-family: "Roboto", sans-serif; }
+
+body img { align: middle; margin: 5px auto auto auto; display: block; max-width: 600px; }
+
+p { display: block; margin-top: 1em; margin-bottom: 1em; margin-left: 0; margin-right: 0; line-height: 1.65; font-family: "Roboto", sans-serif; }
+
+/* Lists */
+ul, ol, dl { margin-top: 1rem; margin-bottom: 1rem; margin-left: 1.5rem; font-family: "Roboto", sans-serif; }
+
+ol li { margin-top: 1rem; margin-bottom: 1rem; margin-left: 1.5rem; }
+
+li { margin-bottom: 1rem; }
+
+dt { font-weight: bold; }
+
+dd { margin-bottom: .5rem; }
+
+/* Links */
+a { color: black; text-decoration: none; }
+
+/* Blockquote */
+blockquote { margin: 10px 20px 10px; padding: 0px 15px; border-left: 0.25em solid #ccc; color: #999; line-height: 1.5; }
+
+/** Tables */
+table { border-collapse: collapse; margin-bottom: 30px; width: 100%; }
+
+table, th, td { border: 1px solid black; }
+
+th, td { padding: 15px; text-align: left; }
+
+code, pre { font-family: "Source Code Pro", monospace; }
+
+code { padding: .25em .5em; font-size: .8rem; background-color: #f5f5f6; border-radius: 3px; }
+
+pre { display: block; margin-top: 0; margin-bottom: 1rem; padding: 1rem; font-size: .8rem; line-height: 1.4; white-space: pre; white-space: pre-wrap; word-break: break-all; word-wrap: break-word; background-color: #f5f5f5; }
+
+pre code { padding: 0; font-size: 100%; color: inherit; background-color: transparent; }
+
+/* Pygments via Jekyll */
+.highlight { margin-bottom: 1rem; border-radius: 4px; }
+
+.highlight pre { margin-bottom: 0; }
+
+/* Gist via GitHub Pages */
+.gist .gist-file { font-family: "Source Code Pro", monospace !important; }
+
+.gist .markdown-body { padding: 15px; }
+
+.gist pre { padding: 0; background-color: transparent; }
+
+.gist .gist-file .gist-data { font-size: .8rem !important; line-height: 1.4; }
+
+.gist code { padding: 0; color: inherit; background-color: black; border-radius: 0; }
+
+/* Site container */
+.container { width: 1100px; margin-left: auto; margin-right: auto; }
+
+.container a { text-decoration: underline; }
+
+.content-wrapper { padding-top: 66px; margin: auto; display: block; width: 1080px; }
+
+.content-wrapper h1 { margin: 20px 0px 5px; }
+
+@media (max-width: 1100px) { .container { width: 95vw; margin-left: auto; margin-right: auto; } .content-wrapper { padding-top: 66px; margin: auto; display: block; width: 95vw; } }
+
+.footer { background: white; color: black; text-align: center; min-height: 56px; line-height: 45px; width: 1100px; }
+
+.footer a { color: black; padding: 0px 10px 0px; text-decoration: none; }
+
+@media (max-width: 1100px) { .footer { background: white; color: black; text-align: center; min-height: 56px; line-height: 45px; width: 95vw; } }
+
+.footer-description { display: block; margin-bottom: 1rem; color: #9a9a9a; font-size: 0.8rem; }
+
+.site-header { min-height: 56px; width: 1100px; position: fixed; background-color: white; box-shadow: 0 5px 6px -6px #bbb; z-index: 100; }
+
+@media (max-width: 1100px) { .site-header { min-height: 56px; width: 95vw; position: fixed; background-color: white; box-shadow: 0 5px 6px -6px #bbb; z-index: 100; } }
+
+.site-header a { text-decoration: none; }
+
+.site-title { font-size: 26px; font-weight: 400; line-height: 56px; margin-bottom: 0; margin-top: 0; padding-left: 10px; float: left; }
+
+.menu-list { line-height: 56px; float: right; }
+
+.menu-link { padding: 5px 10px; }
+
+/* Responsiveness with a dropdown menu */
+@media (min-width: 1100px) { .dropbtn { display: none; } .dropdown-content { display: none; } }
+
+@media (max-width: 1100px) { .menu-list { display: none; } .site-title { padding-right: 0.25rem; } .dropbtn { background-color: white; color: black; padding: 16px; margin-top: 4px; font-size: 16px; border: none; cursor: pointer; } .dropdown { position: relative; display: inline-block; } .dropdown-content { display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); z-index: 1; } .dropdown-content a { color: black; padding: 12px 16px; text-decoration: none; display: block; } .dropdown-content a:hover { background-color: #f1f1f1; } .dropdown:hover .dropdown-content { display: block; } .dropdown:hover .dropbtn { background-color: #f1f1f1; } }
+
+.featured-post { height: 400px; margin: 5px 10px 10px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; }
+
+.featured-post h2 { bottom: 0; margin: 0; padding: 10px; position: absolute; }
+
+.featured-post h2 span { display: inline-block; color: white; font: bold 24px/45px Helvetica, Sans-Serif; letter-spacing: -1px; background: black; /* fallback color */ background: rgba(0, 0, 0, 0.7); padding: 10px; }
+
+.featured-post span a { color: white; }
+
+.featured-post h1 { margin: 10px; }
+
+/* Pagination */
+.pagination { text-align: center; }
+
+.pagination a { text-decoration: none; }
+
+.pagination-button { color: #999; border: 1px solid #e0e0e0; padding: 15px 45px; margin-top: 10px; margin-bottom: 10px; display: inline-block; font-size: 16px; font-weight: bold; }
+
+.pagination-active { color: black; }
+
+.pagination-active:hover { background-color: #e0e0e0; }
+
+.page-content { max-width: 600px; display: block; margin: 10px auto 10px; padding: 0px 10px 10px; }
+
+.post-content { width: 600px; display: block; margin: 10px auto 10px; }
+
+.post-date { display: block; margin-bottom: 1rem; color: #9a9a9a; font-size: 0.8rem; }
+
+.featured-image img { align: middle; margin: 5px auto 25px; display: block; max-width: 600px; }
+
+@media (max-width: 1100px) { .post-content { width: 60vw; display: block; margin: 10px auto 10px; } .featured-image img { align: middle; margin: 5px auto 25px; display: block; max-width: 60vw; } }
+
+@media (max-width: 600px) { .post-content { width: 95vw; display: block; margin: 10px auto 10px; } .featured-image img { align: middle; margin: 5px auto 25px; display: block; max-width: 95vw; } }
+
+.post-share { padding-bottom: 1rem; }
+
+.sharing-icons a { padding-right: 10px; }
+
+/* Related Posts */
+.related { padding-bottom: 1rem; }
+
+.related ul, ol, dl { margin: 0px; }
+
+.related-posts { padding: 10px 0px 10px; list-style: none; display: inline-block; }
+
+.related-thumbnail { position: relative; width: 600px; height: 200px; overflow: hidden; }
+
+.related img { position: absolute; left: 50%; top: 50%; height: auto; width: 600px; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }
+
+.related-title { float: right; padding-bottom: .5rem; font-family: "Roboto", sans-serif; }
+
+@media (max-width: 1100px) { .related-thumbnail { width: 60vw; } }
+
+@media (max-width: 600px) { .related-thumbnail { width: 95vw; } }
+
+.fa-envelope { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-envelope:hover { color: #f39c12; }
+
+.fa-twitter { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-twitter:hover { color: #00aced; }
+
+.fa-instagram { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-instagram:hover { color: #375989; }
+
+.fa-github { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-github:hover { color: #343434; }
+
+.fa-linkedin { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-linkedin:hover { color: #0073a4; }
+
+.fa-facebook { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-facebook:hover { color: #3d5b99; }
+
+.fa-google-plus { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-google-plus:hover { color: #e64a41; }
+
+.fa-pinterest { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-pinterest:hover { color: #bd081c; }
+
+.fa-medium { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-medium:hover { color: #00AB6C; }
+
+.fa-codepen { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-codepen:hover { color: black; }
+
+.fa-rss-square { padding: 5px; -webkit-transition: 1s; -o-transition: 1s; -ms-transition: 1s; -moz-transition: 1s; transition: 1s; }
+
+.fa-rss-square:hover { color: #ff6600; }
+
+/*# sourceMappingURL=main.css.map */
