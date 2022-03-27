@@ -16,8 +16,8 @@
 </description>
 				
 				<pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-				<link>/welcome-to-millennial</link>
-				<guid isPermaLink="true">/welcome-to-millennial</guid>
+				<link>http://localhost:4000/welcome-to-millennial</link>
+				<guid isPermaLink="true">http://localhost:4000/welcome-to-millennial</guid>
 			</item>
 		
 			<item>
@@ -30,8 +30,8 @@
 </description>
 				
 				<pubDate>Mon, 10 Oct 2016 00:00:00 -0700</pubDate>
-				<link>/getting-started</link>
-				<guid isPermaLink="true">/getting-started</guid>
+				<link>http://localhost:4000/getting-started</link>
+				<guid isPermaLink="true">http://localhost:4000/getting-started</guid>
 			</item>
 		
 			<item>
@@ -44,8 +44,8 @@
 </description>
 				
 				<pubDate>Fri, 09 Sep 2016 00:00:00 -0700</pubDate>
-				<link>/text-formatting</link>
-				<guid isPermaLink="true">/text-formatting</guid>
+				<link>http://localhost:4000/text-formatting</link>
+				<guid isPermaLink="true">http://localhost:4000/text-formatting</guid>
 			</item>
 		
 	</channel>
