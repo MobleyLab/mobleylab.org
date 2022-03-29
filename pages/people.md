@@ -7,10 +7,13 @@ permalink: /people
 Each person should add a paragraph about themselves and a picture.
 
 
-### **David Mobley (Principal Investigator)** -
+### **David Mobley (Principal Investigator)**
+
+<img src="/assets/img/dmobley.png" alt="dmobley" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 David Mobley did his undergraduate work in Physics at the University of California, Davis, graduating in 2000. After that he finished a M.S. (2002) and a Ph.D. (2004) in Physics at UCD, doing graduate research in condensed matter theory and biophysics with Daniel L. Cox and Rajiv Singh. Following his Ph.D. he took a position with Ken Dill at the University of California, San Francisco, doing molecular simulations relating to protein-ligand binding and hydration thermodynamics. This work ultimately moved with him to the University of New Orleans. However, after his postdoc ended in 2008, he did a brief stint as Chief Science Officer of a startup company (Simprota Corporation) doing contract work designing peptide diagnostics. He then left to join UNO in Fall 2008. Then, in 2012, after almost 4 years at UNO, he moved to his current position in Pharmaceutical Sciences at the University of California, Irvine. In January 2013 he also received a joint appointment in the Department of Chemistry at UCI. He was promoted to Associate Professor at UCI, and received tenure, in July 2014, then was promoted to Professor in 2018. He served on the advisory board for Schrodinger software from 2013-2016. He currently serves on the editorial boards of the Journal of Computer-Aided Molecular Design and the Journal of Molecular Recognition, on the scientific advisory board for OpenEye Scientific Software, as a founding and managing editor for the Living Journal of Computational Molecular Science, and as an Open Science Fellow for Silicon Therapeutics. He also maintains a personal blog where he writes about his Christian faith and other issues.
 
+## **Post-Doctoral Researchers**
 
 ### **Yunhui Ge (Postdoctoral Fellow)** -
 
@@ -19,6 +22,8 @@ David Mobley did his undergraduate work in Physics at the University of Californ
 
 
 ### **Mary Pitman (Postdoctoral Fellow)** -
+
+## **Graduate Students**
 
 
 ### **Jessica Maat (Graduate Student)** -
@@ -55,8 +60,12 @@ Oanh Tran completed her B.S. and B.S.A. at the University of Texas at Austin in 
 
 ### **Ana Caldaruse (Graduate Student)** -
 
-[UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
+<img src="/assets/img/acaldaru.png" alt="acaldaru" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz in 2015. She did research in undergrad but didn’t feel ready for a PhD after graduation so she sought out research positions before applying to graduate school. She worked for a clinical trials company and in research at Cedars Sinai Medical Center where she studied the molecular mechanisms of heart failure and development of a blood based bioassay to determine disease progression. In 2020, Ana made the transition into the Pharmacological Sciences PhD program at UC Irvine and joined the Mobley lab. Her work focuses on implementing separated topologies approach into the Lead Optimization Mapper (LOMap) to plan out binding free energy calculations that can be used in the pharmaceutical industry. Besides research she likes to be involved in mentoring students to help ease their transition into graduate school. Other things that bring Ana joy are reading -- particularly dystopian novels, trying new coffee shops, and experiencing new cultures through travel and cuisine.
 
+[UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
+
+
+## **Alumni**
 ### **Lily Wang (Fullbright Visiting Scholar)** -
