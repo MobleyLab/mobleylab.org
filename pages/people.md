@@ -53,7 +53,7 @@ Hannah graduated from Johannes-Gutenberg University Mainz, Germany, with a pharm
 
 ### **Martin Amezcua (Graduate Student)** -
 
-<img src="/assets/img/amezcum1.png" alt="amezcum1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+<img src="{{site.baseurl}}/assets/img/amezcum1.png" alt="amezcum1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 Martin Amezcua graduated from CSUF with a B.S. in Biochemistry. During this time, under the tutelage of Dr. Nicholas Salzameda, his research work involved computational modeling and docking, synthesis, and evaluation of dipeptide small molecules as potential counter measures against Botulinum Neurotoxin-A. He entered UCI’s Pharmaceutical Sciences PhD program in 2018, where he joined the Mobley Lab. His current work is primarily on the SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands) challenges to test and study computational methods and tools for predicting binding thermodynamics of host-guest systems to help improve their accuracy for computer aided drug design. 
 
