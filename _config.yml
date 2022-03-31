@@ -1,4 +1,5 @@
-# Site Build Settings
+# Site Build 
+baseurl: /mobleylab. - 
 
 # jekyll-paginate configuration
 paginate:            5
