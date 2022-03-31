@@ -15,7 +15,7 @@ David Mobley did his undergraduate work in Physics at the University of Californ
 
 ## **Post-Doctoral Researchers**
 
-### **Yunhui Ge (Postdoctoral Fellow)** -
+### **Yunhui Ge** -
 
 <img src="{{site.baseurl}}/assets/img/yunhui.jpeg" alt="yunhui" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -23,7 +23,7 @@ Yunhui Ge pursued his PhD study in computational chemistry in Dr. Vincent Voelz 
 
 [LinkedIn](https://www.linkedin.com/in/yunhui-ge-57307067/) - [Google Scholar](https://scholar.google.com/citations?user=cuOntH0AAAAJ&hl=en&authuser=1&oi=ao)
 
-### **Pavan Behara (Postdoctoral Fellow)** -
+### **Pavan Behara** -
 
 <img src="{{site.baseurl}}/assets/img/pbehara.png" alt="pbehara" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -31,34 +31,47 @@ Pavan Behara graduated in Chemical Engineering from Birla Institute of Technolog
 
 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-behara-a0223b1a)
 
-### **Mary Pitman (Postdoctoral Fellow)** -
+### **Mary Pitman** -
 
+<img src="{{site.baseurl}}/assets/img/mpitman.jpg" alt="mpitman" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biological phenomena through the lens of theory. She did her doctoral research in the Papoian lab at the University of Maryland and as a Fellow for Integrative Cancer Research at NCI/NIH. Mary aspires to lead a brigade of curious individuals to improve patient outcomes.
+
+[Github](https://github.com/pitmanme/pitmanme.github.io) - [Researchgate](https://www.researchgate.net/profile/Mary-Pitman) - [LinkedIn]( https://www.linkedin.com/in/mepitman/) - [ORCiD](https://orcid.org/0000-0002-2613-5769)
+
+<br />
+<br />
+<br />
 ## **Graduate Students**
 
 
-### **Jessica Maat (Graduate Student)** -
+### **Jessica Maat (Chemistry)** -
 
 Jessica joined the Mobley group in 2018. She graduated University of Massachusetts Amherst in 2017 with a B.S. in Applied Mathematics and Chemistry. She worked with Prof. Christine Isborn from UC Merced on her undergraduate honors thesis on calculating the hyperpolarizaibility of organic electrooptic chromophores and modeling their excited state coupling. Jessica currently works on improving accuracy of force fields in the Open Force Field Initiative. Specifically her project focuses on developing using data driven methods to improve energetics and geometries of trivalent nitrogens, a very prevalent chemical feature in small drug molecules.
 
 
-### **Danielle Bergazin (Graduate Student)** -
+### **Danielle Bergazin (Pharmaceutical Sciences)** -
 
 Danielle joined the Mobley lab in 2018 under the Pharmacological Sciences Ph.D. program. Her previous work involved contributing to the development and application of BLUES, and is currently involved in the SAMPL series of blind challenges. Her long-term research interest is to produce computational methods that reduce the cost of drug discovery, as well as expand the applications of computational chemistry in drug discovery.
 
 
-### **Hannah Baumann (Graduate Student)** -
+### **Hannah Baumann (Pharmaceutical Sciences)** -
 
-Hannah graduated from Johannes-Gutenberg University Mainz, Germany, with a pharmacy degree in 2018. During her time in pharmacy school she worked with Prof. González at the University Jaume in Castelló de la Plana, Spain, synthesizing a new cysteine protease inhibitor against Trypanosoma. She also did an internship for six months at Merck KGaA, Darmstadt, where she applied relative binding free energy calculations in ongoing drug discovery projects. Motivated by this experience, Hannah decided to come to UC Irvine, where she joined the Mobley lab in Fall 2018. Her research focuses on the calculation of binding free energies using a non-equilibrium alchemical approach. Hannah’s main interest is to develop and improve computational methods that help discover new drugs.
+<img src="{{site.baseurl}}/assets/img/hbaumann.jpg" alt="hbaumann" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Hannah graduated from Johannes-Gutenberg University Mainz, Germany, with a pharmacy degree in 2018. During her time in pharmacy school she worked with Prof. González at the University Jaume in Castelló de la Plana, Spain, synthesizing a new cysteine protease inhibitor against Trypanosoma. She also did an internship for six months at Merck KGaA, Darmstadt, where she applied relative binding free energy calculations in ongoing drug discovery projects. Motivated by this experience, Hannah decided to come to UC Irvine, where she joined the Mobley lab in Fall 2018. Her research focuses on developing an alternate approach for relative binding free energy calculations, Separated Topologies. Hannah’s main interest is to develop and improve computational methods that help discover new drugs.
+
+[LinkedIn](https://www.linkedin.com/in/hannah-baumann-72875718a/)
 
 
-### **Martin Amezcua (Graduate Student)** -
+### **Martin Amezcua (Pharmaceutical Sciences)** -
 
 <img src="{{site.baseurl}}/assets/img/amezcum1.png" alt="amezcum1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 Martin Amezcua graduated from CSUF with a B.S. in Biochemistry. During this time, under the tutelage of Dr. Nicholas Salzameda, his research work involved computational modeling and docking, synthesis, and evaluation of dipeptide small molecules as potential counter measures against Botulinum Neurotoxin-A. He entered UCI’s Pharmaceutical Sciences PhD program in 2018, where he joined the Mobley Lab. His current work is primarily on the SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands) challenges to test and study computational methods and tools for predicting binding thermodynamics of host-guest systems to help improve their accuracy for computer aided drug design. 
 
 
-### **Chris Zhang (Graduate Student)** -
+### **Chris Zhang (Chemistry)** -
 
 <img src="{{site.baseurl}}/assets/img/chrisz1.jpeg" alt="chrisz1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -70,27 +83,37 @@ Chris Zhang graduated from Harvard University with a Bachelors in Chemistry. Dur
 <br />
 <br />
 
-### **Trevor Gokey (Graduate Student)** -
+### **Trevor Gokey (Chemistry)** -
 
 
 
-### **Anjali Dixit (Graduate Student)** -
+### **Anjali Dixit (Pharmaceutical Science)** -
 
+<img src="{{site.baseurl}}/assets/img/dixitaa.jpeg" alt="dixitaa" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
+Anjali Dixit is a Pharmaceutical Sciences Ph.D. student who is co-advised by Dr. David Mobley and Dr. Paegel. She graduated from the University of California Santa Barbara with BS in pharmacology and BA in psychology. In her undergraduate career, Anjali’s research centered around neuroimaging and decision-making research. In her graduate career, her project aims to strengthen the role of cheminformatic involvement in DNA-encoded library combinatorial synthesis and library design. Using machine learning tools, she hopes to inform future generations of library development towards rationally designed chemical space
 
+[LinkedIn](https://www.linkedin.com/in/anjali-dixit/) - [ORCiD](https://orcid.org/0000-0002-4997-8005)
 
-### **Oanh Tran (Graduate Student)** -
+### **Oanh Tran (Chemistry)** -
+
+<img src="{{site.baseurl}}/assets/img/otran.jpg" alt="otran" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 Oanh Tran completed her B.S. and B.S.A. at the University of Texas at Austin in biochemistry and chemistry. As an undergraduate student, Tran worked on multiple research projects from her institution as well as from other internships across the U.S. She is currently pursuing a Ph.D. and working in both the Mobley lab and the Poulos lab. She also has the best corgi in the world, named Brisket.
 
+[LinkedIn](www.linkedin.com/in/oanhtt )
 
-### **Ana Caldaruse (Graduate Student)** -
+<br />
+<br />
+<br />
+
+### **Ana Caldaruse (Pharmaceutical Sciences)** -
 
 <img src="{{site.baseurl}}/assets/img/acaldaru.png" alt="acaldaru" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz in 2015. She did research in undergrad but didn’t feel ready for a PhD after graduation so she sought out research positions before applying to graduate school. She worked for a clinical trials company and in research at Cedars Sinai Medical Center where she studied the molecular mechanisms of heart failure and development of a blood based bioassay to determine disease progression. In 2020, Ana made the transition into the Pharmacological Sciences PhD program at UC Irvine and joined the Mobley lab. Her work focuses on implementing separated topologies approach into the Lead Optimization Mapper (LOMap) to plan out binding free energy calculations that can be used in the pharmaceutical industry. Besides research she likes to be involved in mentoring students to help ease their transition into graduate school. Other things that bring Ana joy are reading -- particularly dystopian novels, trying new coffee shops, and experiencing new cultures through travel and cuisine.
 
-[UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
+[UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
 
 
 ## **Alumni**
