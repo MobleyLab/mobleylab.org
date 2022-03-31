@@ -17,9 +17,19 @@ David Mobley did his undergraduate work in Physics at the University of Californ
 
 ### **Yunhui Ge (Postdoctoral Fellow)** -
 
+<img src="/assets/img/yunhui.jpeg" alt="yunhui" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Yunhui Ge pursued his PhD study in computational chemistry in Dr. Vincent Voelz lab at Temple University in Philadelphia. After he graduated in 2020, he joined the Mobley lab in UC Irvine as a postdoc. His research has been focused on (1) exploring enhanced sampling techniques for water molecules and their applications in binding free energy calculations; (2) using molecular dynamics simulations and docking algorithms for virtual screening and lead optimization; (3) applying Markov state model approaches to investigate folding and binding mechanisms for different systems; (4) developing a Bayesian inference approach to reconcile experimental measurements with simulations predictions for structural determination and model selection. 
+
+[LinkedIn](https://www.linkedin.com/in/yunhui-ge-57307067/) - [Google Scholar](https://scholar.google.com/citations?user=cuOntH0AAAAJ&hl=en&authuser=1&oi=ao)
 
 ### **Pavan Behara (Postdoctoral Fellow)** -
 
+<img src="/assets/img/pbehara.png" alt="pbehara" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Pavan Behara graduated in Chemical Engineering from Birla Institute of Technology and Science, Pilani in 2011. He worked for a year in the R&D division of Aditya Birla Group on Alumina refining processes. In 2012, he moved to University at Buffalo, SUNY, for a Masters degree and worked on understanding demixing phenomenon in binary hardsphere mixtures. He started his PhD research in 2015 on modeling charge carrier dynamics in renewable energy materials using Ab initio quantum chemistry methods. Pavan joined Mobley Lab, under Openforcefield initiative in Sep 2020, to work on development of small molecule force fields for pharmaceutically relevant chemical space. 
+
+[LinkedIn](https://www.linkedin.com/in/pavan-kumar-behara-a0223b1a)
 
 ### **Mary Pitman (Postdoctoral Fellow)** -
 
@@ -43,14 +53,30 @@ Hannah graduated from Johannes-Gutenberg University Mainz, Germany, with a pharm
 
 ### **Martin Amezcua (Graduate Student)** -
 
+<img src="/assets/img/amezcum1.png" alt="amezcum1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Martin Amezcua graduated from CSUF with a B.S. in Biochemistry. During this time, under the tutelage of Dr. Nicholas Salzameda, his research work involved computational modeling and docking, synthesis, and evaluation of dipeptide small molecules as potential counter measures against Botulinum Neurotoxin-A. He entered UCI’s Pharmaceutical Sciences PhD program in 2018, where he joined the Mobley Lab. His current work is primarily on the SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands) challenges to test and study computational methods and tools for predicting binding thermodynamics of host-guest systems to help improve their accuracy for computer aided drug design. 
+
 
 ### **Chris Zhang (Graduate Student)** -
 
+<img src="/assets/img/chrisz1.jpeg" alt="chrisz1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Chris Zhang graduated from Harvard University with a Bachelors in Chemistry. During his undergrad, he worked in Alan Aspuru-Guzik’s lab applying machine learning methods to chemistry. He is currently developing computational tools to analyze DNA-encoded libraries.
+
+[LinkedIn](https://www.linkedin.com/in/chris-zhang-603308113/)
+
+<br />
+<br />
+<br />
 
 ### **Trevor Gokey (Graduate Student)** -
 
 
+
 ### **Anjali Dixit (Graduate Student)** -
+
+
 
 
 ### **Oanh Tran (Graduate Student)** -
@@ -68,4 +94,5 @@ Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa 
 
 
 ## **Alumni**
+
 ### **Lily Wang (Fullbright Visiting Scholar)** -
