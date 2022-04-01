@@ -4,10 +4,7 @@ title: People
 permalink: /people
 ---
 
-Each person should add a paragraph about themselves and a picture.
-
-
-### **David Mobley (Principal Investigator)**
+## **David Mobley (Principal Investigator)**
 
 <img src="{{site.baseurl}}/assets/img/dmobley.png" alt="dmobley" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -87,23 +84,7 @@ Chris Zhang graduated from Harvard University with a Bachelors in Chemistry. Dur
 <br />
 <br />
 
-### **Trevor Gokey (Chemistry)** -
-
-<img src="{{site.baseurl}}/assets/img/tgokey.png" alt="tgokey" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Trevor Gokey earned an MS in Computer Science at San Francisco State University and a BA in Psychology from CSU Long Beach. He works with OpenFF to design force fields, where he focuses on efficient ways to encode and search chemical space. His interests are at the intersection of high performance computing and multiscale modeling. Outside of research, Trevor enjoys roasting coffee and perfecting espresso, building clusters, and pipe organs.
-
-<br />
-
-### **Anjali Dixit (Pharmaceutical Science)** -
-
-<img src="{{site.baseurl}}/assets/img/dixitaa.jpeg" alt="dixitaa" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Anjali Dixit is a Pharmaceutical Sciences Ph.D. student who is co-advised by Dr. David Mobley and Dr. Paegel. She graduated from the University of California Santa Barbara with BS in pharmacology and BA in psychology. In her undergraduate career, Anjali’s research centered around neuroimaging and decision-making research. In her graduate career, her project aims to strengthen the role of cheminformatic involvement in DNA-encoded library combinatorial synthesis and library design. Using machine learning tools, she hopes to inform future generations of library development towards rationally designed chemical space
-
-[LinkedIn](https://www.linkedin.com/in/anjali-dixit/) - [ORCiD](https://orcid.org/0000-0002-4997-8005)
-
-### **Oanh Tran (Chemistry)** -
+### **Oanh Tran (Chemistry) (Joint with Thomas Poulos)** -
 
 <img src="{{site.baseurl}}/assets/img/otran.jpg" alt="otran" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -113,7 +94,23 @@ Oanh Tran completed her B.S. and B.S.A. at the University of Texas at Austin in 
 
 <br />
 <br />
+
+### **Trevor Gokey (Chemistry) (Joint with Ioan Andricioaei)** -
+
+<img src="{{site.baseurl}}/assets/img/tgokey.png" alt="tgokey" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Trevor Gokey earned an MS in Computer Science at San Francisco State University and a BA in Psychology from CSU Long Beach. He works with OpenFF to design force fields, where he focuses on efficient ways to encode and search chemical space. His interests are at the intersection of high performance computing and multiscale modeling. Outside of research, Trevor enjoys roasting coffee and perfecting espresso, building clusters, and pipe organs.
+
 <br />
+
+### **Anjali Dixit (Pharmaceutical Science) (Joint with Brian Paegel)** -
+
+<img src="{{site.baseurl}}/assets/img/dixitaa.jpeg" alt="dixitaa" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Anjali Dixit is a Pharmaceutical Sciences Ph.D. student who is co-advised by Dr. David Mobley and Dr. Paegel. She graduated from the University of California Santa Barbara with BS in pharmacology and BA in psychology. In her undergraduate career, Anjali’s research centered around neuroimaging and decision-making research. In her graduate career, her project aims to strengthen the role of cheminformatic involvement in DNA-encoded library combinatorial synthesis and library design. Using machine learning tools, she hopes to inform future generations of library development towards rationally designed chemical space
+
+[LinkedIn](https://www.linkedin.com/in/anjali-dixit/) - [ORCiD](https://orcid.org/0000-0002-4997-8005)
+
 
 ### **Ana Caldaruse (Pharmaceutical Sciences)** -
 
