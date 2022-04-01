@@ -54,6 +54,8 @@ Jessica joined the Mobley group in 2018. She graduated University of Massachuset
 
 ### **Danielle Bergazin (Pharmaceutical Sciences)** -
 
+<img src="{{site.baseurl}}/assets/img/bergazin.png" alt="bergazin" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
 Danielle joined the Mobley lab in 2018 under the Pharmacological Sciences Ph.D. program. Her previous work involved contributing to the development and application of BLUES, and is currently involved in the SAMPL series of blind challenges. Her long-term research interest is to produce computational methods that reduce the cost of drug discovery, as well as expand the applications of computational chemistry in drug discovery.
 
 
@@ -141,12 +143,41 @@ Meghan Osato graduated from UCI in 2020 with Bachelor's degrees in Biological Sc
 
 ## **Alumni**
 
-### **Lily Wang (Fullbright Visiting Scholar)**
-### **Nathan Lim (Graduate Student)**
-### **Caitlin Bannan (Graduate Student)**
-### **Camila Zanette (Graduate Student)**
-### **Victoria Lim (Graduate Student)**
-### **Guilherme Duarte Ramos Matos (Graduate Student)**
-### **David Wych (Graduate Student)**
-### **Sam Gill (Graduate Student)**
-### **Sukanya Sasmal (Post-Doctoral Researcher)**
+| Name | Tensure in the Lab | Current Position |
+|:------:|:-----------------:|:------------------:|
+|Dr. Sukanya Sasmal| Postdoc (2017-2019)|pharma; molecular modeling|
+|Dr. Gaetano Calabró|Postdoc (2017)|Scientific software development with OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
+|Dr. Adam Van Wart| Postdoc (2015)|Adjunct chemistry professor at several community colleges in Orange County, California.|
+|Dr. Sreeja Parameswaran| Postdoc| Took time off to raise her family, then started a position in data science as an Application Developer at Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
+|Dr. Shun Zhu|Postdoc|Faculty member in the Department of Cellular and Genetic Medicine at Fudan University in China.|
+|------------|--------------|----------------|
+|Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
+|Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
+|Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
+|Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
+|Nathan Lim| Graduate Student (2014-2019)|Postdoctoral Researcher, Janssen Pharmaceuticals in San Diego|
+|Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
+|Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
+|Victoria Lim| Graduate Student (2015-2020)| Technical Writer, Ionis, Patent Area|
+David Wych|Graduate Student (2016-2021)|Scientist Los Alamos National Laboratory|
+|-------------|-------------|--------------|
+|Anasuya Kolavennu| Masters Student (UNO)|She is currently a high school teacher in India|
+|Jessica Fuselier|Masters Student (UNO)|She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
+|Hanh Nguyen|Masters Student|Obtained a position at a R&D laboratory.|
+Noora Siddiqui|Masters Student|Currently working in Baylor College of Medicine as a Programmer Analyst.|
+|Lilly Wang| Fullbright Visiting Scholar (2021)|PhD Student Australlian National University|
+|Zuzana Jandova|Visiting Scholar (2018)|From Chris Oostenbrink’s group in Vienna|
+|Max Riquelme|Visiting Scholar (2017)|From Esteban Vöhringer-Martinez’s group in Chile|
+|Stefania Evoli|Visiting Scholar|From University of Calabria in Italy. Continued onto a postdoc position with Jeff Wereczsynski at IIT.|
+|-------------|-------------|--------------|
+|Daisy Kyu|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences and is in pharmacy school at the University of Southern California.|
+|Nam Thi|Undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is in pharmacy school at Loma Linda University School of Pharmacy.|
+|Kevin Hoang|undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is pursuing pharmacy school.|
+|Karisa Wymer|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences at UCI and is attending Pharmacy school at University of California, San Francisco.|
+|Kim Keyes|Undergraduate Student (UNO)|Chemical analyst at Eurofins in New Orleans.|
+|Vivian Jaber|Undergraduate Student (UNO)|MD/Ph.D. student at Louisiana State University in New Orleans.|
+|Sheldon Williams|Undergraduate Student (UNO)|Finished his undergraduate degree at Southern University in New Orleans.|
+|Yu Xuan “Luna” Liu|Undergraduate Student (UNO)|Graduate student in oriental medicine.|
+|Christopher D. Savoie|Undergraduate Student (UNO)|Completed his M.S. degree in Chemistry at Boston University with Tom Keyes and is working as a Nuclear Officer for the U.S. Navy.|
+
+
