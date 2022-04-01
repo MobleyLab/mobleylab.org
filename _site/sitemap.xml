@@ -25,6 +25,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/jobs</loc>
+</url>
+<url>
 <loc>http://localhost:4000/people</loc>
 </url>
 <url>
