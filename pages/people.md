@@ -47,6 +47,8 @@ Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biolo
 
 ### **Jessica Maat (Chemistry)** -
 
+<img src="{{site.baseurl}}/assets/img/jmaat.jpeg" alt="jmaat" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
 Jessica joined the Mobley group in 2018. She graduated University of Massachusetts Amherst in 2017 with a B.S. in Applied Mathematics and Chemistry. She worked with Prof. Christine Isborn from UC Merced on her undergraduate honors thesis on calculating the hyperpolarizaibility of organic electrooptic chromophores and modeling their excited state coupling. Jessica currently works on improving accuracy of force fields in the Open Force Field Initiative. Specifically her project focuses on developing using data driven methods to improve energetics and geometries of trivalent nitrogens, a very prevalent chemical feature in small drug molecules.
 
 
@@ -85,7 +87,11 @@ Chris Zhang graduated from Harvard University with a Bachelors in Chemistry. Dur
 
 ### **Trevor Gokey (Chemistry)** -
 
+<img src="{{site.baseurl}}/assets/img/tgokey.png" alt="tgokey" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
+Trevor Gokey earned an MS in Computer Science at San Francisco State University and a BA in Psychology from CSU Long Beach. He works with OpenFF to design force fields, where he focuses on efficient ways to encode and search chemical space. His interests are at the intersection of high performance computing and multiscale modeling. Outside of research, Trevor enjoys roasting coffee and perfecting espresso, building clusters, and pipe organs.
+
+<br />
 
 ### **Anjali Dixit (Pharmaceutical Science)** -
 
@@ -101,7 +107,7 @@ Anjali Dixit is a Pharmaceutical Sciences Ph.D. student who is co-advised by Dr.
 
 Oanh Tran completed her B.S. and B.S.A. at the University of Texas at Austin in biochemistry and chemistry. As an undergraduate student, Tran worked on multiple research projects from her institution as well as from other internships across the U.S. She is currently pursuing a Ph.D. and working in both the Mobley lab and the Poulos lab. She also has the best corgi in the world, named Brisket.
 
-[LinkedIn](www.linkedin.com/in/oanhtt )
+[LinkedIn](https://www.linkedin.com/in/oanhtt/)
 
 <br />
 <br />
@@ -115,7 +121,32 @@ Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa 
 
 [UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
 
+### **Aakankschit Nandkeolyar (Pharmaceutical Sciences)** -
+
+
+<img src="{{site.baseurl}}/assets/img/anandkeo.jpeg" alt="anandkeo" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engineering from Drexel University in Philadelphia. He completed an internship with the automation team at GLaxoSmithkline (GSK) where he found an interest for pharmaceutical sciences. AK worked on curating a dataset of physical properties for the blind challenge series SAMPL (Statistical Assessment of Modeling of Proteins and Ligands). AK continued his collaboration with GSK through his graduate research at Drexel, which focused on building machine learning models to predict clinical outcomes in patients based on data obtained from quantitative systems pharmacology models. At the Mobley Lab, he continues to work on the SAMPL project evaluating different modeling methods for accuracy in predicting physical proterties.
+
+[LinkedIn](https://www.linkedin.com/in/aakankschit-nandkeolyar-838b0b126/)
+
+### **Megan Osato (Pharmaceutical Sciences)** -
+
+<img src="{{site.baseurl}}/assets/img/mosato.jpg" alt="mosato" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Meghan Osato graduated from UCI in 2020 with Bachelor's degrees in Biological Sciences and Computer Science. During her undergrad, she worked in the Mobley Lab on protein-ligand binding mode prediction using MD and BLUES simulations. Upon graduating she worked with Dr. Antoni Luque at San Diego State University modeling bacteriophage capsid geometry. Currently, Meghan is a technician in the Mobley Lab working on containerized methods for the SAMPL Challenges. She plans to join the Mobley Lab in Fall 2022 as a PhD student.
+
+[LinkedIn](https://www.linkedin.com/in/meghan-osato-bb3b06153/ )
+
 
 ## **Alumni**
 
-### **Lily Wang (Fullbright Visiting Scholar)** -
+### **Lily Wang (Fullbright Visiting Scholar)**
+### **Nathan Lim (Graduate Student)**
+### **Caitlin Bannan (Graduate Student)**
+### **Camila Zanette (Graduate Student)**
+### **Victoria Lim (Graduate Student)**
+### **Guilherme Duarte Ramos Matos (Graduate Student)**
+### **David Wych (Graduate Student)**
+### **Sam Gill (Graduate Student)**
+### **Sukanya Sasmal (Post-Doctoral Researcher)**
