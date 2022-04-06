@@ -10,11 +10,10 @@ A major focus is the binding of small-molecule ligands to proteins. While curren
 
 **Alchemical free energy calculations turn off interactions between the protein and the ligand in a set of simulations, allowing transfer of the ligand from the binding site to solution and yielding binding free energies.**
 
-![https://i1.wp.com/mobleylab.org/wp-content/uploads/image/figures/alchemistry.jpg?resize=675%2C95](https://i1.wp.com/mobleylab.org/wp-content/uploads/image/figures/alchemistry.jpg?resize=675%2C95)
-
 # We continue to advance methods for binding prediction using model binding sites:
 
-![https://i1.wp.com/mobleylab.org/wp-content/uploads/image/figures/CCP.jpg?resize=245%2C254](https://i1.wp.com/mobleylab.org/wp-content/uploads/image/figures/CCP.jpg?resize=245%2C254)
+<img src = "{{site.baseurl}}/assets/img/Ligands.png" alt = "Ligands">
+
 
 Previously, we pioneered techniques for computing absolute binding free energies, applying these first in several model binding sites — an [apolar binding site](http://dx.doi.org/10.1016/j.jmb.2007.06.002) in T4 lysozyme, and then in [more polar](http://dx.doi.org/10.1016/j.jmb.2009.09.049) version of the binding site which introduces hydrogen bonding, and finally on a charged binding site in [Cytochrome C peroxidase](http://dx.doi.org/10.1016/j.jmb.2013.07.030). This included work on handling [uncertainty](http://dx.doi.org/10.1063/1.2221683) in ligand binding modes. Follow-up work dealt with how protein conformational changes adversely affect [relative free energy calculations](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00532). We continue to work in the space of model binding sites occasionally, including recent work on how crystallization conditions like temperature impact structures and binding calculations.
 
@@ -22,7 +21,7 @@ One major avenue of current research involves the separated topologies method fo
 
 # We apply binding free energy techniques
 
-![https://i2.wp.com/mobleylab.org/wp-content/uploads/image/figures/BC.jpg?resize=245%2C155](https://i2.wp.com/mobleylab.org/wp-content/uploads/image/figures/BC.jpg?resize=245%2C155)
+<img src="{{site.baseurl}}/assets/img/bindingFE.jpeg" alt="binding free energy">
 
 **We seek to design around minor changes in an enzyme active site to develop new antibacterials.**
 
@@ -31,11 +30,14 @@ We have several more application-oriented problems of binding free energy techni
 
 # Hydration free energy calculations and solubilities
 
-![https://i2.wp.com/mobleylab.org/wp-content/uploads/image/figures/hydration.jpg?resize=218%2C298](https://i2.wp.com/mobleylab.org/wp-content/uploads/image/figures/hydration.jpg?resize=218%2C298)
+<video src = "https://user-images.githubusercontent.com/81872310/162035927-13240a80-22fe-4a65-984d-057b10ad3fd0.mp4" loop="true" autoplay="autoplay" controls style="max-width: 600px;">
+</video>
 
 Hydration free energies are important for several reasons. One is simply that it is now possible to calculate these extremely precisely for small molecules, enabling quantitative comparison between simulations and experiment. They are also thought to provide some idea of the level of accuracy that can be expected in drug discovery applications. Finally, they provide a probe of the underlying physics of hydration. These reasons make them rather interesting for computational studies.
 
 # Previous work on hydration free energies
+
+<img src="{{site.baseurl}}/assets/img/waterSampling.png" alt="water sampling">
 
 We have a long history looking at hydration free energy calculations using alchemical free energy techniques, beginning with testing a variety of different charge models and two water models for hydration free energies of around 40 [different molecules](http://dx.doi.org/10.1021/jp0667442) (see also [follow-up](http://dx.doi.org/10.1021/jp108173f)). Later, we did blind predictions of hydration free energies on [several](http://dx.doi.org/10.1021/jm070549+) [different](http://pubs.acs.org/doi/abs/10.1021/jp806838b) [occasions](http://dx.doi.org/10.1007/s10822-010-9343-7), most recently just [a few months ago](http://dx.doi.org/10.1007/s10822-011-9528-8). We also looked at solvation of more than 500 different molecules in both [explicit](http://dx.doi.org/10.1021/ct800409d) and [implicit](http://dx.doi.org/10.1021/jp0764384) solvent, providing what is becoming a standard dataset for hydration free energies which we have expanded into the [FreeSolv database](http://dx.doi.org/10.1007/s10822-014-9747-x) (which we just [updated and revised](http://dx.doi.org/10.1101/104281)). We have also highlighted how water [asymmetrically solvates solutes of opposite polarity](http://dx.doi.org/10.1021/jp210487k). However, new experimental hydration free energies are becoming a rarity, so we are moving in the direction of other, related properties as tests and benchmarks for forcefields (and fodder for the SAMPL series of blind challenges), including ~~[relative solubility](http://pubsdc3.acs.org/doi/full/10.1021/acs.jctc.5b00934)~~, [partition coefficients](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00449), and [distribution coefficients](http://dx.doi.org/10.1007/s10822-016-9954-8) (see also the [SAMPL6 distribution coefficient challenge](http://link.springer.com/journal/10822/30/11/page/1) we coordinated).
 
@@ -60,5 +62,7 @@ A major bottleneck in using these calculations in a drug discovery setting has b
 Building on LOMAP, we’re also investing effort in more optimal planning of free energy calculations to guide compound screening. New results from the lab provide insight into how to improve the accuracy of predictions via better calculation planning and prioritization, and how errors can be dramatically reduced by including key additional calculations in compound prioritization. This work will also couple with our separated topologies approach, allowing traditional and separated topologies to be used together to efficiently explore multiple compound series, including when planning scaffold hopping. 
 
 # We’re interested in library design and compound screening:
+
+<img src="{{site.baseurl}}/assets/img/DEL.png" alt="DEL">
 
 We’re also partnering with the Paegel lab at UC Irvine in several different areas, including library design and compound screening. In particular, the Paegel lab’s unique technology for combinatorial screening via DNA encoded libraries provides a number of exciting opportunities to interface with computation. We’re working on designing screening libraries that are maximally informative and combine building blocks in ways which more efficiently explore chemical space than traditionally designed libraries, and we have plans to extend this to design libraries more suited to antibacterial and antiviral discovery. We’re also working on techniques to learn from the results of DEL screens and improve the quality of our models and subsequent screens. DELs have the potential to generate vast amounts of data, making them interesting for machine learning (ML) methods, whereas at lower data quantities physical methods are more appealing; exploring this tradeoff will be interesting.
