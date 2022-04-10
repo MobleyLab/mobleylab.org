@@ -28,4 +28,10 @@ The [SAMPL Challenges](https://www.samplchallenges.org)
 <br />
 <br />
 The [Open Free Energy project](https://openfree.energy/)
+<br />
+<br />
+<br />
 
+<img src="{{site.baseurl}}/assets/img/OMSF.jpeg" alt="group" width="100" style="float:left;padding-right: 20px;padding-bottom: 5px"> 
+<br />
+The [Open Molecular Software Foundation](https://omsf.io/)
