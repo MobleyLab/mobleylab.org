@@ -34,4 +34,5 @@ The [Open Free Energy project](https://openfree.energy/)
 
 <img src="{{site.baseurl}}/assets/img/OMSF.jpeg" alt="group" width="100" style="float:left;padding-right: 20px;padding-bottom: 5px"> 
 <br />
+<br />
 The [Open Molecular Software Foundation](https://omsf.io/)

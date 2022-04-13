@@ -103,7 +103,7 @@ Trevor Gokey earned an MS in Computer Science at San Francisco State University 
 
 <br />
 
-### **Anjali Dixit (Pharmaceutical Science) (Joint with Brian Paegel)** -
+### **Anjali Dixit (Pharmaceutical Sciences) (Joint with Brian Paegel)** -
 
 <img src="{{site.baseurl}}/assets/img/dixitaa.jpeg" alt="dixitaa" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
