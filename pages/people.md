@@ -147,6 +147,7 @@ Meghan Osato graduated from UCI in 2020 with Bachelor's degrees in Biological Sc
 |Dr. Adam Van Wart| Postdoc (2015)|Adjunct chemistry professor at several community colleges in Orange County, California.|
 |Dr. Sreeja Parameswaran| Postdoc| Took time off to raise her family, then started a position in data science as an Application Developer at Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
 |Dr. Shun Zhu|Postdoc|Faculty member in the Department of Cellular and Genetic Medicine at Fudan University in China.|
+|Dr. Lea El Khoury|Postdoc (2017-2021)|Team Leader in Molecular Modeling at Qubit Pharmaceuticals|
 |------------|--------------|----------------|
 |Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
 |Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
