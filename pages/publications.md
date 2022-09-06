@@ -9,7 +9,7 @@ permalink: /publications
 
 A list of Mobley lab publications can be found at [Google Scholar](https://scholar.google.com/citations?user=k4Q4JN8AAAAJ&hl=en). To reduce administrative burden, we don't maintain a separate publication list.
 
-## Pre-publication resources
+## Pre-publication resources:
 
 We typically preprint all of our papers on chemRxiv or biorXiv, except when outside collaborations prohibit this, so consult those (and the Google Scholar link above) for preprints.
 
