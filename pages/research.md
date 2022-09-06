@@ -17,7 +17,7 @@ A major focus is the binding of small-molecule ligands to proteins. While curren
 
 Previously, we pioneered techniques for computing absolute binding free energies, applying these first in several model binding sites — an [apolar binding site](http://dx.doi.org/10.1016/j.jmb.2007.06.002) in T4 lysozyme, and then in [more polar](http://dx.doi.org/10.1016/j.jmb.2009.09.049) version of the binding site which introduces hydrogen bonding, and finally on a charged binding site in [Cytochrome C peroxidase](http://dx.doi.org/10.1016/j.jmb.2013.07.030). This included work on handling [uncertainty](http://dx.doi.org/10.1063/1.2221683) in ligand binding modes. Follow-up work dealt with how protein conformational changes adversely affect [relative free energy calculations](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00532). We continue to work in the space of model binding sites occasionally, including recent work on how crystallization conditions like temperature impact structures and binding calculations.
 
-One major avenue of current research involves the separated topologies method for binding free energy calculations, which we introduced in a [proof-of-principle study](https://dx.doi.org/10.1063/1.4792251) in 2013 but only began to push forward recently. In a collaboration with Pfizer, we’re working to turn this into a production-level method which can be broadly used for flexible free energy calculations in industry, and preliminary results look promising.
+One major avenue of current research involves the separated topologies method for binding free energy calculations, which we introduced in a [proof-of-principle study](https://dx.doi.org/10.1063/1.4792251) in 2013 but only began to push forward recently. In a collaboration with Pfizer, we’re working to turn this into a production-level method which can be broadly used for flexible free energy calculations in industry, and [preliminary results look promising](https://zenodo.org/record/6495652#.YxfKIeludzU).
 
 # We apply binding free energy techniques
 
@@ -25,7 +25,7 @@ One major avenue of current research involves the separated topologies method fo
 
 **We seek to design around minor changes in an enzyme active site to develop new antibacterials.**
 
-We have several more application-oriented problems of binding free energy techniques.  For example, we are collaborating with Jeff Perry’s lab at City of Hope on several cancer targets and in other therapeutic areas. We’re also collaborating with Marcus Fischer (St. Jude) in several areas including HSP90 inhibitor discovery, and we’re involved in a budding neurotherapeutics institute at UCI. 
+We have several more application-oriented problems of binding free energy techniques.  For example, we are collaborating with Jeff Perry’s lab at City of Hope on several cancer targets and in other therapeutic areas. We’re also collaborating with Marcus Fischer (St. Jude) in several areas including HSP90 inhibitor discovery, and we’re involved in a budding neurotherapeutics institute at UCI.
 
 
 # Hydration free energy calculations and solubilities
@@ -43,11 +43,11 @@ We have a long history looking at hydration free energy calculations using alche
 
 # Ongoing projects
 
-Ongoing work in this area mostly focuses on the SAMPL series of blind challenges, which have moved in the direction of logD and logP prediction for transfer between phases, though we have also worked on calculation of infinite dilution activity coefficients. With the SAMPL challenges, we arrange for data collection (or release) of new experimental results so the community can engage in blind predictions prior to release of the data, allowing methods to compete head to head and crowdsourcing new innovations. This has been instrumental in driving progress in the field, from solvation modeling to binding prediction. 
+Ongoing work in this area mostly focuses on the SAMPL series of blind challenges, which have moved in the direction of logD and logP prediction for transfer between phases, though we have also worked on calculation of infinite dilution activity coefficients. With the SAMPL challenges, we arrange for data collection (or release) of new experimental results so the community can engage in blind predictions prior to release of the data, allowing methods to compete head to head and crowdsourcing new innovations. This has been instrumental in driving progress in the field, from solvation modeling to binding prediction.
 
 # **The Open Force Field Initiative**
 
-We’re very excited be part of building better force fields for molecular simulations, and building a better way to make new force fields. We helped found the [Open Force Field Initiative](https://www.openforcefield.org), a large academic and industry collaboration designed to advance science, software, and force field quality in this area. Much of the new science of our work is funded by the National Institutes of Health, and a large consortium funded by the pharmaceutical industry helps support our software and product development efforts. This work has already produced the most accurate public/open general small molecule force field, and much more is in progress and planned. 
+We’re very excited be part of building better force fields for molecular simulations, and building a better way to make new force fields. We helped found the [Open Force Field Initiative](https://www.openforcefield.org), a large academic and industry collaboration designed to advance science, software, and force field quality in this area. Much of the new science of our work is funded by the National Institutes of Health, and a large consortium funded by the pharmaceutical industry helps support our software and product development efforts. This work has already produced the most accurate public/open general small molecule force field, and much more is in progress and planned.
 
 # Methodology, Sampling Techniques, and Tools
 
@@ -55,11 +55,11 @@ Previously, we highlighted the importance of [soft core techniques](http://dx.d
 
 # We make free energy calculations easier to apply:
 
-A major bottleneck in using these calculations in a drug discovery setting has been the difficulty of setting them up, and the expertise required to do so. We are working on new tools to make free energy calculations dramatically easier to apply, including a tool for automated planning of relative free energy calculations, Lead Optimization Mapper ([LOMAP](http://dx.doi.org/10.1007/s10822-013-9678-y), [GitHub](http://github.com/mobleylab/lomap)). We also helped launch the Open Free Energy Initiative recently, and are partnering with them on ongoing work in this space. 
+A major bottleneck in using these calculations in a drug discovery setting has been the difficulty of setting them up, and the expertise required to do so. We are working on new tools to make free energy calculations dramatically easier to apply, including a tool for automated planning of relative free energy calculations, Lead Optimization Mapper ([LOMAP](http://dx.doi.org/10.1007/s10822-013-9678-y), [GitHub](http://github.com/mobleylab/lomap)). We also helped launch the Open Free Energy Initiative recently, and are partnering with them on ongoing work in this space.
 
 # We’re improving free energy calculations via compound screening
 
-Building on LOMAP, we’re also investing effort in more optimal planning of free energy calculations to guide compound screening. New results from the lab provide insight into how to improve the accuracy of predictions via better calculation planning and prioritization, and how errors can be dramatically reduced by including key additional calculations in compound prioritization. This work will also couple with our separated topologies approach, allowing traditional and separated topologies to be used together to efficiently explore multiple compound series, including when planning scaffold hopping. 
+Building on LOMAP, we’re also investing effort in more optimal planning of free energy calculations to guide compound screening. New results from the lab provide insight into how to improve the accuracy of predictions via better calculation planning and prioritization, and how errors can be dramatically reduced by including key additional calculations in compound prioritization. This work will also couple with our separated topologies approach, allowing traditional and separated topologies to be used together to efficiently explore multiple compound series, including when planning scaffold hopping.
 
 # We’re interested in library design and compound screening:
 
