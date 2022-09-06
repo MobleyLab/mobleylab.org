@@ -12,19 +12,11 @@ David Mobley did his undergraduate work in Physics at the University of Californ
 
 ## **Post-Doctoral Researchers**
 
-### **Yunhui Ge** -
-
-<img src="{{site.baseurl}}/assets/img/yunhui.jpeg" alt="yunhui" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Yunhui Ge pursued his PhD study in computational chemistry in Dr. Vincent Voelz lab at Temple University in Philadelphia. After he graduated in 2020, he joined the Mobley lab in UC Irvine as a postdoc. His research has been focused on (1) exploring enhanced sampling techniques for water molecules and their applications in binding free energy calculations; (2) using molecular dynamics simulations and docking algorithms for virtual screening and lead optimization; (3) applying Markov state model approaches to investigate folding and binding mechanisms for different systems; (4) developing a Bayesian inference approach to reconcile experimental measurements with simulations predictions for structural determination and model selection. 
-
-[LinkedIn](https://www.linkedin.com/in/yunhui-ge-57307067/) - [Google Scholar](https://scholar.google.com/citations?user=cuOntH0AAAAJ&hl=en&authuser=1&oi=ao)
-
 ### **Pavan Behara** -
 
 <img src="{{site.baseurl}}/assets/img/pbehara.png" alt="pbehara" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Pavan Behara graduated in Chemical Engineering from Birla Institute of Technology and Science, Pilani in 2011. He worked for a year in the R&D division of Aditya Birla Group on Alumina refining processes. In 2012, he moved to University at Buffalo, SUNY, for a Masters degree and worked on understanding demixing phenomenon in binary hardsphere mixtures. He started his PhD research in 2015 on modeling charge carrier dynamics in renewable energy materials using Ab initio quantum chemistry methods. Pavan joined Mobley Lab, under Openforcefield initiative in Sep 2020, to work on development of small molecule force fields for pharmaceutically relevant chemical space. 
+Pavan Behara graduated in Chemical Engineering from Birla Institute of Technology and Science, Pilani in 2011. He worked for a year in the R&D division of Aditya Birla Group on Alumina refining processes. In 2012, he moved to University at Buffalo, SUNY, for a Masters degree and worked on understanding demixing phenomenon in binary hardsphere mixtures. He started his PhD research in 2015 on modeling charge carrier dynamics in renewable energy materials using Ab initio quantum chemistry methods. Pavan joined Mobley Lab, under Openforcefield initiative in Sep 2020, to work on development of small molecule force fields for pharmaceutically relevant chemical space.
 
 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-behara-a0223b1a)
 
@@ -40,13 +32,6 @@ Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biolo
 <br />
 <br />
 ## **Graduate Students**
-
-
-### **Jessica Maat (Chemistry)** -
-
-<img src="{{site.baseurl}}/assets/img/jmaat.jpeg" alt="jmaat" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Jessica joined the Mobley group in 2018. She graduated University of Massachusetts Amherst in 2017 with a B.S. in Applied Mathematics and Chemistry. She worked with Prof. Christine Isborn from UC Merced on her undergraduate honors thesis on calculating the hyperpolarizaibility of organic electrooptic chromophores and modeling their excited state coupling. Jessica currently works on improving accuracy of force fields in the Open Force Field Initiative. Specifically her project focuses on developing using data driven methods to improve energetics and geometries of trivalent nitrogens, a very prevalent chemical feature in small drug molecules.
 
 
 ### **Danielle Bergazin (Pharmaceutical Sciences)** -
@@ -69,7 +54,7 @@ Hannah graduated from Johannes-Gutenberg University Mainz, Germany, with a pharm
 
 <img src="{{site.baseurl}}/assets/img/amezcum1.png" alt="amezcum1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Martin Amezcua graduated from CSUF with a B.S. in Biochemistry. During this time, under the tutelage of Dr. Nicholas Salzameda, his research work involved computational modeling and docking, synthesis, and evaluation of dipeptide small molecules as potential counter measures against Botulinum Neurotoxin-A. He entered UCI’s Pharmaceutical Sciences PhD program in 2018, where he joined the Mobley Lab. His current work is primarily on the SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands) challenges to test and study computational methods and tools for predicting binding thermodynamics of host-guest systems to help improve their accuracy for computer aided drug design. 
+Martin Amezcua graduated from CSUF with a B.S. in Biochemistry. During this time, under the tutelage of Dr. Nicholas Salzameda, his research work involved computational modeling and docking, synthesis, and evaluation of dipeptide small molecules as potential counter measures against Botulinum Neurotoxin-A. He entered UCI’s Pharmaceutical Sciences PhD program in 2018, where he joined the Mobley Lab. His current work is primarily on the SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands) challenges to test and study computational methods and tools for predicting binding thermodynamics of host-guest systems to help improve their accuracy for computer aided drug design.
 
 
 ### **Chris Zhang (Chemistry)** -
@@ -142,32 +127,36 @@ Meghan Osato graduated from UCI in 2020 with Bachelor's degrees in Biological Sc
 
 | Name | Tensure in the Lab | Current Position |
 |:------:|:-----------------:|:------------------:|
-|Dr. Sukanya Sasmal| Postdoc (2017-2019)|pharma; molecular modeling|
-|Dr. Gaetano Calabró|Postdoc (2017)|Scientific software development with OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
 |Dr. Adam Van Wart| Postdoc (2015)|Adjunct chemistry professor at several community colleges in Orange County, California.|
-|Dr. Sreeja Parameswaran| Postdoc| Took time off to raise her family, then started a position in data science as an Application Developer at Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
+|Dr. Sreeja Parameswaran| Postdoc| Senior Analyst in Bioinformatics, Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
 |Dr. Shun Zhu|Postdoc|Faculty member in the Department of Cellular and Genetic Medicine at Fudan University in China.|
+|Dr. Gaetano Calabró|Postdoc (2017)|Scientific software development with OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
+|Dr. Sukanya Sasmal| Postdoc (2017-2019)|pharma; molecular modeling|
 |Dr. Lea El Khoury|Postdoc (2017-2021)|Team Leader in Molecular Modeling at Qubit Pharmaceuticals|
+| Dr. Yunhui Ge | Postdoc (2020-2022) | Postdoc, Janssen Pharmaceuticals |
 |------------|--------------|----------------|
 |Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
 |Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
 |Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
 |Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
-|Nathan Lim| Graduate Student (2014-2019)|Postdoctoral Researcher, Janssen Pharmaceuticals in San Diego|
+|Nathan Lim| Graduate Student (2014-2019)|Scientist, Janssen Pharmaceuticals in San Diego|
 |Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
 |Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
-|Victoria Lim| Graduate Student (2015-2020)| Technical Writer, Ionis, Patent Area|
-David Wych|Graduate Student (2016-2021)|Scientist Los Alamos National Laboratory|
+|Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
+David Wych|Graduate Student (2016-2021)|Scientist, Los Alamos National Laboratory|
+Jessica Maat | Graduate Student (2017-2022) | ??? |
+T. Danielle Bergazin | Graduate Student (2017-2022) | Senior Cheminformatics Engineer, Booz Allen Hamilton |
 |-------------|-------------|--------------|
 |Anasuya Kolavennu| Masters Student (UNO)|She is currently a high school teacher in India|
 |Jessica Fuselier|Masters Student (UNO)|She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
 |Hanh Nguyen|Masters Student|Obtained a position at a R&D laboratory.|
 Noora Siddiqui|Masters Student|Currently working in Baylor College of Medicine as a Programmer Analyst.|
-|Lilly Wang| Fullbright Visiting Scholar (2021)|PhD Student Australlian National University|
+|Lily Wang| Fullbright Visiting Scholar (2021)|Science Lead, Open Force Field Initiative|
 |Zuzana Jandova|Visiting Scholar (2018)|From Chris Oostenbrink’s group in Vienna|
 |Max Riquelme|Visiting Scholar (2017)|From Esteban Vöhringer-Martinez’s group in Chile|
-|Stefania Evoli|Visiting Scholar|From University of Calabria in Italy. Continued onto a postdoc position with Jeff Wereczsynski at IIT.|
+|Stefania Evoli|Visiting Scholar|Application Scientist, Chemical Computing Group.|
 |-------------|-------------|--------------|
+|Jordan Ehrman | Undergraduate student | Ph.D. student, University of Washington |
 |Daisy Kyu|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences and is in pharmacy school at the University of Southern California.|
 |Nam Thi|Undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is in pharmacy school at Loma Linda University School of Pharmacy.|
 |Kevin Hoang|undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is pursuing pharmacy school.|
@@ -177,5 +166,3 @@ Noora Siddiqui|Masters Student|Currently working in Baylor College of Medicine a
 |Sheldon Williams|Undergraduate Student (UNO)|Finished his undergraduate degree at Southern University in New Orleans.|
 |Yu Xuan “Luna” Liu|Undergraduate Student (UNO)|Graduate student in oriental medicine.|
 |Christopher D. Savoie|Undergraduate Student (UNO)|Completed his M.S. degree in Chemistry at Boston University with Tom Keyes and is working as a Nuclear Officer for the U.S. Navy.|
-
-
