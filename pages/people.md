@@ -10,6 +10,8 @@ permalink: /people
 
 David Mobley did his undergraduate work in Physics at the University of California, Davis, graduating in 2000. After that he finished a M.S. (2002) and a Ph.D. (2004) in Physics at UCD, doing graduate research in condensed matter theory and biophysics with Daniel L. Cox and Rajiv Singh. Following his Ph.D. he took a position with Ken Dill at the University of California, San Francisco, doing molecular simulations relating to protein-ligand binding and hydration thermodynamics. This work ultimately moved with him to the University of New Orleans. However, after his postdoc ended in 2008, he did a brief stint as Chief Science Officer of a startup company (Simprota Corporation) doing contract work designing peptide diagnostics. He then left to join UNO in Fall 2008. Then, in 2012, after almost 4 years at UNO, he moved to his current position in Pharmaceutical Sciences at the University of California, Irvine. In January 2013 he also received a joint appointment in the Department of Chemistry at UCI. He was promoted to Associate Professor at UCI, and received tenure, in July 2014, then was promoted to Professor in 2018. He served on the advisory board for Schrodinger software from 2013-2016. He currently serves on the editorial boards of the Journal of Computer-Aided Molecular Design and the Journal of Molecular Recognition, on the scientific advisory board for OpenEye Scientific Software, as a founding and managing editor for the Living Journal of Computational Molecular Science, and as an Open Science Fellow for Silicon Therapeutics. He also maintains a personal blog where he writes about his Christian faith and other issues.
 
+<br />
+<br />
 ## **Post-Doctoral Researchers**
 
 ### **Pavan Behara** -
@@ -31,15 +33,18 @@ Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biolo
 <br />
 <br />
 <br />
+
+### **Swapnil Wagle** -
+
+<img src="{{site.baseurl}}/assets/img/swagle.jpeg" alt="swagle" width="200" style="float:left;padding-right: 20px;padding-bottom: 10px">
+
+Swapnil received his M.Sc. Integrated degree in Chemistry from IIT Kanpur, India, in 2015. After graduation, he moved to Germany for his Ph.D. in Computational Biophysics at the Max Planck Institute for Colloids and Interfaces, Potsdam, working on enhanced sampling free-energy calculations on protein-membrane systems. Thereafter, he joined Prof. Heather Carlson’s lab at University of Michigan as a postdoc in 2020, working on chemical similarity calculations of ligands and training machine learning models for protein binding sites similarity calculations. Swapnil joined Mobley Lab in 2022 as a postdoctoral fellow, to work on developing effective approaches for alchemical binding free-energy calculations of protein-ligand systems with buried water molecules. Swapnil aspires to become a successful computational chemist with expertise in machine learning, to accelerate modern day drug-discovery research.
+
+[LinkedIn](https://www.linkedin.com/in/wagleswapnil/)
+
+<br />
+<br />
 ## **Graduate Students**
-
-
-### **Danielle Bergazin (Pharmaceutical Sciences)** -
-
-<img src="{{site.baseurl}}/assets/img/bergazin.png" alt="bergazin" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Danielle joined the Mobley lab in 2018 under the Pharmacological Sciences Ph.D. program. Her previous work involved contributing to the development and application of BLUES, and is currently involved in the SAMPL series of blind challenges. Her long-term research interest is to produce computational methods that reduce the cost of drug discovery, as well as expand the applications of computational chemistry in drug discovery.
-
 
 ### **Hannah Baumann (Pharmaceutical Sciences)** -
 
@@ -110,7 +115,7 @@ Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa 
 
 <img src="{{site.baseurl}}/assets/img/anandkeo.jpeg" alt="anandkeo" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engineering from Drexel University in Philadelphia. He completed an internship with the automation team at GLaxoSmithkline (GSK) where he found an interest for pharmaceutical sciences. AK worked on curating a dataset of physical properties for the blind challenge series SAMPL (Statistical Assessment of Modeling of Proteins and Ligands). AK continued his collaboration with GSK through his graduate research at Drexel, which focused on building machine learning models to predict clinical outcomes in patients based on data obtained from quantitative systems pharmacology models. At the Mobley Lab, he continues to work on the SAMPL project evaluating different modeling methods for accuracy in predicting physical proterties.
+Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engineering from Drexel University in Philadelphia. He completed an internship with the automation team at GLaxoSmithkline (GSK) where he found an interest in the pharmaceutical sciences. AK worked on curating a dataset of physical properties for the blind challenge series SAMPL (Statistical Assessment of Modeling of Proteins and Ligands). AK continued his collaboration with GSK through his graduate research at Drexel, which focused on building machine learning models to predict clinical outcomes in patients based on data obtained from quantitative systems pharmacology models. At the Mobley Lab, he continues to work on the SAMPL project evaluating different modeling methods for accuracy in predicting physical properties.
 
 [LinkedIn](https://www.linkedin.com/in/aakankschit-nandkeolyar-838b0b126/)
 
