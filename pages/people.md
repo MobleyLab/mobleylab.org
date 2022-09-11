@@ -26,7 +26,7 @@ Pavan Behara graduated in Chemical Engineering from Birla Institute of Technolog
 
 <img src="{{site.baseurl}}/assets/img/mpitman.jpg" alt="mpitman" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biological phenomena through the lens of theory. She did her doctoral research in the Papoian lab at the University of Maryland and as a Fellow for Integrative Cancer Research at NCI/NIH. Mary aspires to lead a brigade of curious individuals to improve patient outcomes.
+Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biological phenomena through the lens of theory. Dr. Pitman is a Molecular Sciences Software Institute (MolSSI) Software Fellow. She did her doctoral research in the Papoian lab at the University of Maryland and as a Fellow for Integrative Cancer Research at NCI/NIH. Mary aspires to lead a brigade of curious individuals to improve patient outcomes.
 
 [Github](https://github.com/pitmanme/pitmanme.github.io) - [Researchgate](https://www.researchgate.net/profile/Mary-Pitman) - [LinkedIn]( https://www.linkedin.com/in/mepitman/) - [ORCiD](https://orcid.org/0000-0002-2613-5769)
 
@@ -106,7 +106,7 @@ Anjali Dixit is a Pharmaceutical Sciences Ph.D. student who is co-advised by Dr.
 
 <img src="{{site.baseurl}}/assets/img/acaldaru.png" alt="acaldaru" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz in 2015. She did research in undergrad but didn’t feel ready for a PhD after graduation so she sought out research positions before applying to graduate school. She worked for a clinical trials company and in research at Cedars Sinai Medical Center where she studied the molecular mechanisms of heart failure and development of a blood based bioassay to determine disease progression. In 2020, Ana made the transition into the Pharmacological Sciences PhD program at UC Irvine and joined the Mobley lab. Her work focuses on implementing separated topologies approach into the Lead Optimization Mapper (LOMap) to plan out binding free energy calculations that can be used in the pharmaceutical industry. Besides research she likes to be involved in mentoring students to help ease their transition into graduate school. Other things that bring Ana joy are reading -- particularly dystopian novels, trying new coffee shops, and experiencing new cultures through travel and cuisine.
+Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz in 2015. She did research in undergrad but didn’t feel ready for a PhD after graduation so she sought out research positions before applying to graduate school. She worked for a clinical trials company and in research at Cedars Sinai Medical Center where she studied the molecular mechanisms of heart failure and development of a blood based bioassay to determine disease progression. In 2020, Ana made the transition into the Pharmacological Sciences PhD program at UC Irvine and joined the Mobley lab. Her work focuses on testing ring breaking and formation using the Separated Topologies approach which cannot be handled by traditional relative binding free energy approaches. Being able to handle ligands with diverse scaffolds will broaden the scope of applicability of binding free energy approaches in the pharmaceutical industry. Besides research she likes to be involved in mentoring students to help ease their transition into graduate school. Other things that bring Ana joy are reading -- particularly dystopian novels, trying new coffee shops, and experiencing new cultures through travel and cuisine.
 
 [UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
 
@@ -145,6 +145,7 @@ Meghan Osato graduated from UCI in 2020 with Bachelor's degrees in Biological Sc
 |Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
 |Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
 |Nathan Lim| Graduate Student (2014-2019)|Scientist, Janssen Pharmaceuticals in San Diego|
+|Kalistyn Burley| Graduate Student (2015-2020)|Computational Chemist,Neomorph|
 |Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
 |Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
 |Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
