@@ -10,6 +10,8 @@ permalink: /people
 
 David Mobley did his undergraduate work in Physics at the University of California, Davis, graduating in 2000. After that he finished a M.S. (2002) and a Ph.D. (2004) in Physics at UCD, doing graduate research in condensed matter theory and biophysics with Daniel L. Cox and Rajiv Singh. Following his Ph.D. he took a position with Ken Dill at the University of California, San Francisco, doing molecular simulations relating to protein-ligand binding and hydration thermodynamics. This work ultimately moved with him to the University of New Orleans. However, after his postdoc ended in 2008, he did a brief stint as Chief Science Officer of a startup company (Simprota Corporation) doing contract work designing peptide diagnostics. He then left to join UNO in Fall 2008. Then, in 2012, after almost 4 years at UNO, he moved to his current position in Pharmaceutical Sciences at the University of California, Irvine. In January 2013 he also received a joint appointment in the Department of Chemistry at UCI. He was promoted to Associate Professor at UCI, and received tenure, in July 2014, then was promoted to Professor in 2018. He served on the advisory board for Schrodinger software from 2013-2016. He currently serves on the editorial boards of the Journal of Computer-Aided Molecular Design and the Journal of Molecular Recognition, on the scientific advisory board for OpenEye Scientific Software, as a founding and managing editor for the Living Journal of Computational Molecular Science, and as an Open Science Fellow for Silicon Therapeutics. He also maintains a personal blog where he writes about his Christian faith and other issues.
 
+<br />
+<br />
 ## **Post-Doctoral Researchers**
 
 ### **Pavan Behara** -
@@ -24,22 +26,25 @@ Pavan Behara graduated in Chemical Engineering from Birla Institute of Technolog
 
 <img src="{{site.baseurl}}/assets/img/mpitman.jpg" alt="mpitman" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biological phenomena through the lens of theory. She did her doctoral research in the Papoian lab at the University of Maryland and as a Fellow for Integrative Cancer Research at NCI/NIH. Mary aspires to lead a brigade of curious individuals to improve patient outcomes.
+Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biological phenomena through the lens of theory. Dr. Pitman is a Molecular Sciences Software Institute (MolSSI) Software Fellow. She did her doctoral research in the Papoian lab at the University of Maryland and as a Fellow for Integrative Cancer Research at NCI/NIH. Mary aspires to lead a brigade of curious individuals to improve patient outcomes.
 
 [Github](https://github.com/pitmanme/pitmanme.github.io) - [Researchgate](https://www.researchgate.net/profile/Mary-Pitman) - [LinkedIn]( https://www.linkedin.com/in/mepitman/) - [ORCiD](https://orcid.org/0000-0002-2613-5769)
 
 <br />
 <br />
 <br />
+
+### **Swapnil Wagle** -
+
+<img src="{{site.baseurl}}/assets/img/swagle.jpeg" alt="swagle" width="200" style="float:left;padding-right: 20px;padding-bottom: 10px">
+
+Swapnil received his M.Sc. Integrated degree in Chemistry from IIT Kanpur, India, in 2015. After graduation, he moved to Germany for his Ph.D. in Computational Biophysics at the Max Planck Institute for Colloids and Interfaces, Potsdam, working on enhanced sampling free-energy calculations on protein-membrane systems. Thereafter, he joined Prof. Heather Carlson’s lab at University of Michigan as a postdoc in 2020, working on chemical similarity calculations of ligands and training machine learning models for protein binding sites similarity calculations. Swapnil joined Mobley Lab in 2022 as a postdoctoral fellow, to work on developing effective approaches for alchemical binding free-energy calculations of protein-ligand systems with buried water molecules. Swapnil aspires to become a successful computational chemist with expertise in machine learning, to accelerate modern day drug-discovery research.
+
+[LinkedIn](https://www.linkedin.com/in/wagleswapnil/)
+
+<br />
+<br />
 ## **Graduate Students**
-
-
-### **Danielle Bergazin (Pharmaceutical Sciences)** -
-
-<img src="{{site.baseurl}}/assets/img/bergazin.png" alt="bergazin" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Danielle joined the Mobley lab in 2018 under the Pharmacological Sciences Ph.D. program. Her previous work involved contributing to the development and application of BLUES, and is currently involved in the SAMPL series of blind challenges. Her long-term research interest is to produce computational methods that reduce the cost of drug discovery, as well as expand the applications of computational chemistry in drug discovery.
-
 
 ### **Hannah Baumann (Pharmaceutical Sciences)** -
 
@@ -101,7 +106,7 @@ Anjali Dixit is a Pharmaceutical Sciences Ph.D. student who is co-advised by Dr.
 
 <img src="{{site.baseurl}}/assets/img/acaldaru.png" alt="acaldaru" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz in 2015. She did research in undergrad but didn’t feel ready for a PhD after graduation so she sought out research positions before applying to graduate school. She worked for a clinical trials company and in research at Cedars Sinai Medical Center where she studied the molecular mechanisms of heart failure and development of a blood based bioassay to determine disease progression. In 2020, Ana made the transition into the Pharmacological Sciences PhD program at UC Irvine and joined the Mobley lab. Her work focuses on implementing separated topologies approach into the Lead Optimization Mapper (LOMap) to plan out binding free energy calculations that can be used in the pharmaceutical industry. Besides research she likes to be involved in mentoring students to help ease their transition into graduate school. Other things that bring Ana joy are reading -- particularly dystopian novels, trying new coffee shops, and experiencing new cultures through travel and cuisine.
+Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz in 2015. She did research in undergrad but didn’t feel ready for a PhD after graduation so she sought out research positions before applying to graduate school. She worked for a clinical trials company and in research at Cedars Sinai Medical Center where she studied the molecular mechanisms of heart failure and development of a blood based bioassay to determine disease progression. In 2020, Ana made the transition into the Pharmacological Sciences PhD program at UC Irvine and joined the Mobley lab. Her work focuses on testing ring breaking and formation using the Separated Topologies approach which cannot be handled by traditional relative binding free energy approaches. Being able to handle ligands with diverse scaffolds will broaden the scope of applicability of binding free energy approaches in the pharmaceutical industry. Besides research she likes to be involved in mentoring students to help ease their transition into graduate school. Other things that bring Ana joy are reading -- particularly dystopian novels, trying new coffee shops, and experiencing new cultures through travel and cuisine.
 
 [UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
 
@@ -110,7 +115,7 @@ Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa 
 
 <img src="{{site.baseurl}}/assets/img/anandkeo.jpeg" alt="anandkeo" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engineering from Drexel University in Philadelphia. He completed an internship with the automation team at GLaxoSmithkline (GSK) where he found an interest for pharmaceutical sciences. AK worked on curating a dataset of physical properties for the blind challenge series SAMPL (Statistical Assessment of Modeling of Proteins and Ligands). AK continued his collaboration with GSK through his graduate research at Drexel, which focused on building machine learning models to predict clinical outcomes in patients based on data obtained from quantitative systems pharmacology models. At the Mobley Lab, he continues to work on the SAMPL project evaluating different modeling methods for accuracy in predicting physical proterties.
+Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engineering from Drexel University in Philadelphia. He completed an internship with the automation team at GLaxoSmithkline (GSK) where he found an interest in the pharmaceutical sciences. AK worked on curating a dataset of physical properties for the blind challenge series SAMPL (Statistical Assessment of Modeling of Proteins and Ligands). AK continued his collaboration with GSK through his graduate research at Drexel, which focused on building machine learning models to predict clinical outcomes in patients based on data obtained from quantitative systems pharmacology models. At the Mobley Lab, he continues to work on the SAMPL project evaluating different modeling methods for accuracy in predicting physical properties.
 
 [LinkedIn](https://www.linkedin.com/in/aakankschit-nandkeolyar-838b0b126/)
 
@@ -140,6 +145,7 @@ Meghan Osato graduated from UCI in 2020 with Bachelor's degrees in Biological Sc
 |Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
 |Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
 |Nathan Lim| Graduate Student (2014-2019)|Scientist, Janssen Pharmaceuticals in San Diego|
+|Kalistyn Burley| Graduate Student (2015-2020)|Computational Chemist,Neomorph|
 |Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
 |Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
 |Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
