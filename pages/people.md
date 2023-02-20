@@ -119,11 +119,11 @@ Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engine
 
 [LinkedIn](https://www.linkedin.com/in/aakankschit-nandkeolyar-838b0b126/)
 
-### **Megan Osato (Pharmaceutical Sciences)** -
+### **Meghan Osato (Pharmaceutical Sciences)** -
 
 <img src="{{site.baseurl}}/assets/img/mosato.jpg" alt="mosato" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Meghan Osato graduated from UCI in 2020 with Bachelor's degrees in Biological Sciences and Computer Science. During her undergrad, she worked in the Mobley Lab on protein-ligand binding mode prediction using MD and BLUES simulations. Upon graduating she worked with Dr. Antoni Luque at San Diego State University modeling bacteriophage capsid geometry. Currently, Meghan is a technician in the Mobley Lab working on containerized methods for the SAMPL Challenges. She plans to join the Mobley Lab in Fall 2022 as a PhD student.
+Meghan Osato graduated from UCI in 2020 with Bachelor's degrees in Biological Sciences and Computer Science. During her undergrad, she worked in the Mobley Lab on protein-ligand binding mode prediction using MD and BLUES simulations. Upon graduating she worked with Dr. Antoni Luque at San Diego State University modeling bacteriophage capsid geometry. Meghan was previously a technician in the Mobley Lab working on containerized methods for the SAMPL Challenges. Currently, she is a graduate student in the lab working on binding free energy calculations.
 
 [LinkedIn](https://www.linkedin.com/in/meghan-osato-bb3b06153/ )
 
