@@ -35,6 +35,13 @@ Swapnil received his M.Sc. Integrated degree in Chemistry from IIT Kanpur, India
 
 <br />
 <br />
+
+### **Suleyman Selim** - 
+
+<br />
+<br />
+
+
 ## **Graduate Students**
 
 ### **Martin Amezcua (Pharmaceutical Sciences)** -
@@ -115,20 +122,20 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 |Dr. Yunhui Ge | Postdoc (2020-2022) | Postdoc, Janssen Pharmaceuticals |
 |Dr. Mary Pitman | Postdoc (2021-2023) | Scientist at Sandbox AQ | 
 |------------|--------------|----------------|
-|Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
-|Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
-|Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
-|Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
-|Nathan Lim| Graduate Student (2014-2019)|Scientist, Janssen Pharmaceuticals in San Diego|
-|Kalistyn Burley| Graduate Student (2015-2020)|Computational Chemist,Neomorph|
-|Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
-|Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
-|Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
-|David Wych|Graduate Student (2016-2021)|Scientist, Los Alamos National Laboratory|
+|Dr. Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
+|Dr. Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
+|Dr. Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
+|Dr. Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
+|Dr. Nathan Lim| Graduate Student (2014-2019)|Scientist, Janssen Pharmaceuticals in San Diego|
+|Dr. Kalistyn Burley| Graduate Student (2015-2020)|Computational Chemist,Neomorph|
+|Dr. Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
+|Dr. Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
+|Dr. Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
+|Dr. David Wych|Graduate Student (2016-2021)|Scientist, Los Alamos National Laboratory|
 |Jessica Maat | Graduate Student (2017-2022) | TBA |
-|T. Danielle Bergazin | Graduate Student (2017-2022) | Senior Cheminformatics Engineer, Booz Allen Hamilton |
+|Dr. T. Danielle Bergazin | Graduate Student (2017-2022) | Senior Cheminformatics Engineer, Booz Allen Hamilton |
 |Oahn Tran |Graduate Student (2018-2023)|Chemiformatician|
-|Hannah Baumann | Graduate Student (2018-2023) | Postdoc at OpenFreeEnergy |
+|Dr. Hannah Baumann | Graduate Student (2018-2023) | Postdoc at OpenFreeEnergy |
 |-------------|-------------|--------------|
 |Anasuya Kolavennu| Masters Student (UNO)|She is currently a high school teacher in India|
 |Jessica Fuselier|Masters Student (UNO)|She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
