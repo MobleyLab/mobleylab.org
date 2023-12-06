@@ -12,7 +12,8 @@ David Mobley did his undergraduate work in Physics at the University of Californ
 
 <br />
 <br />
-## **Post-Doctoral Researchers**
+
+## **Scientists**
 
 ### **Pavan Behara** -
 
@@ -22,17 +23,7 @@ Pavan Behara graduated in Chemical Engineering from Birla Institute of Technolog
 
 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-behara-a0223b1a)
 
-### **Mary Pitman** -
-
-<img src="{{site.baseurl}}/assets/img/mpitman.jpg" alt="mpitman" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Dr. Mary Pitman is a postdoc in the Mobley lab with a habit of reimagining biological phenomena through the lens of theory. Dr. Pitman is a Molecular Sciences Software Institute (MolSSI) Software Fellow. She did her doctoral research in the Papoian lab at the University of Maryland and as a Fellow for Integrative Cancer Research at NCI/NIH. Mary aspires to lead a brigade of curious individuals to improve patient outcomes.
-
-[Github](https://github.com/pitmanme/pitmanme.github.io) - [Researchgate](https://www.researchgate.net/profile/Mary-Pitman) - [LinkedIn]( https://www.linkedin.com/in/mepitman/) - [ORCiD](https://orcid.org/0000-0002-2613-5769)
-
-<br />
-<br />
-<br />
+## **Post-Doctoral Researchers**
 
 ### **Swapnil Wagle** -
 
@@ -45,15 +36,6 @@ Swapnil received his M.Sc. Integrated degree in Chemistry from IIT Kanpur, India
 <br />
 <br />
 ## **Graduate Students**
-
-### **Hannah Baumann (Pharmaceutical Sciences)** -
-
-<img src="{{site.baseurl}}/assets/img/hbaumann.jpg" alt="hbaumann" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Hannah graduated from Johannes-Gutenberg University Mainz, Germany, with a pharmacy degree in 2018. During her time in pharmacy school she worked with Prof. González at the University Jaume in Castelló de la Plana, Spain, synthesizing a new cysteine protease inhibitor against Trypanosoma. She also did an internship for six months at Merck KGaA, Darmstadt, where she applied relative binding free energy calculations in ongoing drug discovery projects. Motivated by this experience, Hannah decided to come to UC Irvine, where she joined the Mobley lab in Fall 2018. Her research focuses on developing an alternate approach for relative binding free energy calculations, Separated Topologies. Hannah’s main interest is to develop and improve computational methods that help discover new drugs.
-
-[LinkedIn](https://www.linkedin.com/in/hannah-baumann-72875718a/)
-
 
 ### **Martin Amezcua (Pharmaceutical Sciences)** -
 
@@ -74,16 +56,6 @@ Chris Zhang graduated from Harvard University with a Bachelors in Chemistry. Dur
 <br />
 <br />
 
-### **Oanh Tran (Chemistry) (Joint with Thomas Poulos)** -
-
-<img src="{{site.baseurl}}/assets/img/otran.jpg" alt="otran" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Oanh Tran completed her B.S. and B.S.A. at the University of Texas at Austin in biochemistry and chemistry. As an undergraduate student, Tran worked on multiple research projects from her institution as well as from other internships across the U.S. She is currently pursuing a Ph.D. and working in both the Mobley lab and the Poulos lab. She also has the best corgi in the world, named Brisket.
-
-[LinkedIn](https://www.linkedin.com/in/oanhtt/)
-
-<br />
-<br />
 
 ### **Trevor Gokey (Chemistry) (Joint with Ioan Andricioaei)** -
 
@@ -121,7 +93,7 @@ Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engine
 
 ### **Meghan Osato (Pharmaceutical Sciences)** -
 
-<img src="{{site.baseurl}}/assets/img/mosato.jpg" alt="mosato" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+<img src="{{site.baseurl}}/assets/img/mosato.png" alt="mosato" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in Computer Science. During her undergrad, she worked in the Mobley Lab on protein-ligand binding mode prediction using MD and BLUES simulations. Upon graduating she worked with Dr. Antoni Luque at San Diego State University modeling bacteriophage capsid geometry. Meghan was previously a technician in the Mobley Lab working on containerized methods for the SAMPL Challenges. Currently, she is a graduate student in the lab working on binding free energy calculations.
 
@@ -132,13 +104,16 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 
 | Name | Tensure in the Lab | Current Position |
 |:------:|:-----------------:|:------------------:|
+|Dr. Jeff Wagner| Staff Scientist (2018-2020) | OMSF Consortium|
+|------------|--------------|----------------|
 |Dr. Adam Van Wart| Postdoc (2015)|Adjunct chemistry professor at several community colleges in Orange County, California.|
 |Dr. Sreeja Parameswaran| Postdoc| Senior Analyst in Bioinformatics, Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
 |Dr. Shun Zhu|Postdoc|Faculty member in the Department of Cellular and Genetic Medicine at Fudan University in China.|
 |Dr. Gaetano Calabró|Postdoc (2017)|Scientific software development with OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
 |Dr. Sukanya Sasmal| Postdoc (2017-2019)|pharma; molecular modeling|
 |Dr. Lea El Khoury|Postdoc (2017-2021)|Team Leader in Molecular Modeling at Qubit Pharmaceuticals|
-| Dr. Yunhui Ge | Postdoc (2020-2022) | Postdoc, Janssen Pharmaceuticals |
+|Dr. Yunhui Ge | Postdoc (2020-2022) | Postdoc, Janssen Pharmaceuticals |
+|Dr. Mary Pitman | Postdoc (2021-2023) | Scientist at Sandbox AQ | 
 |------------|--------------|----------------|
 |Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
 |Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
@@ -149,9 +124,33 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 |Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
 |Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
 |Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
-David Wych|Graduate Student (2016-2021)|Scientist, Los Alamos National Laboratory|
-Jessica Maat | Graduate Student (2017-2022) | ??? |
-T. Danielle Bergazin | Graduate Student (2017-2022) | Senior Cheminformatics Engineer, Booz Allen Hamilton |
+|David Wych|Graduate Student (2016-2021)|Scientist, Los Alamos National Laboratory|
+|Jessica Maat | Graduate Student (2017-2022) | TBA |
+|T. Danielle Bergazin | Graduate Student (2017-2022) | Senior Cheminformatics Engineer, Booz Allen Hamilton |
+|Oahn Tran |Graduate Student (2018-2023)|Chemiformatician|
+|Hannah Baumann | Graduate Student (2018-2023) | Postdoc at OpenFreeEnergy |
+|-------------|-------------|--------------|
+|Anasuya Kolavennu| Masters Student (UNO)|She is currently a high school teacher in India|
+|Jessica Fuselier|Masters Student (UNO)|She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
+|Hanh Nguyen|Masters Student|Obtained a position at a R&D laboratory.|
+|Noora Siddiqui|Masters Student|Currently working in Baylor College of Medicine as a Programmer Analyst.|
+|Lily Wang| Fullbright Visiting Scholar (2021)|Science Lead, Open Force Field Initiative|
+|Zuzana Jandova|Visiting Scholar (2018)|From Chris Oostenbrink’s group in Vienna|
+|Max Riquelme|Visiting Scholar (2017)|From Esteban Vöhringer-Martinez’s group in Chile|
+|Stefania Evoli|Visiting Scholar|Application Scientist, Chemical Computing Group.|
+|Daan Jiskoot |Visiting Scholar|From University of Leiden|
+|Linde Schoenmaker |Visiting Scholar|From University of Leiden|
+|-------------|-------------|--------------|
+|Jordan Ehrman | Undergraduate student | Ph.D. student, University of Washington |
+|Daisy Kyu|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences and is in pharmacy school at the University of Southern California.|
+|Nam Thi|Undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is in pharmacy school at Loma Linda University School of Pharmacy.|
+|Kevin Hoang|undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is pursuing pharmacy school.|
+|Karisa Wymer|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences at UCI and is attending Pharmacy school at University of California, San Francisco.|
+|Kim Keyes|Undergraduate Student (UNO)|Chemical analyst at Eurofins in New Orleans.|
+|Vivian Jaber|Undergraduate Student (UNO)|MD/Ph.D. student at Louisiana State University in New Orleans.|
+|Sheldon Williams|Undergraduate Student (UNO)|Finished his undergraduate degree at Southern University in New Orleans.|
+|Yu Xuan “Luna” Liu|Undergraduate Student (UNO)|Graduate student in oriental medicine.|
+|Christopher D. Savoie|Undergraduate Student (UNO)|Completed his M.S. degree in Chemistry at Boston University with Tom Keyes and is working as a Nuclear Officer for the U.S. Navy.|
 |-------------|-------------|--------------|
 |Anasuya Kolavennu| Masters Student (UNO)|She is currently a high school teacher in India|
 |Jessica Fuselier|Masters Student (UNO)|She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
