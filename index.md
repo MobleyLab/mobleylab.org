@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<img src="{{site.baseurl}}/assets/img/group-2.png" alt="group" width="5000">
+<img src="{{site.baseurl}}/assets/img/group-2.png" alt="group" width="9000">
 
 Our research focuses on applying computational and theoretical methods to understand and quantitatively predict fundamental biological processes such as protein-ligand binding, solvation, and solubility. We seek to provide an atomically detailed understanding of these processes at a level of accuracy that can be useful in industrial applications.
 
