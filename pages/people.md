@@ -50,6 +50,8 @@ Swapnil received his M.Sc. Integrated degree in Chemistry from IIT Kanpur, India
 
 Martin Amezcua graduated from CSUF with a B.S. in Biochemistry. During this time, under the tutelage of Dr. Nicholas Salzameda, his research work involved computational modeling and docking, synthesis, and evaluation of dipeptide small molecules as potential counter measures against Botulinum Neurotoxin-A. He entered UCI’s Pharmaceutical Sciences PhD program in 2018, where he joined the Mobley Lab. His current work is primarily on the SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands) challenges to test and study computational methods and tools for predicting binding thermodynamics of host-guest systems to help improve their accuracy for computer aided drug design.
 
+<br />
+<br />
 
 ### **Chris Zhang (Chemistry)** -
 
@@ -61,8 +63,6 @@ Chris Zhang graduated from Harvard University with a Bachelors in Chemistry. Dur
 
 <br />
 <br />
-<br />
-
 
 ### **Trevor Gokey (Chemistry) (Joint with Ioan Andricioaei)** -
 
@@ -70,6 +70,7 @@ Chris Zhang graduated from Harvard University with a Bachelors in Chemistry. Dur
 
 Trevor Gokey earned an MS in Computer Science at San Francisco State University and a BA in Psychology from CSU Long Beach. He works with OpenFF to design force fields, where he focuses on efficient ways to encode and search chemical space. His interests are at the intersection of high performance computing and multiscale modeling. Outside of research, Trevor enjoys roasting coffee and perfecting espresso, building clusters, and pipe organs.
 
+<br />
 <br />
 
 ### **Anjali Dixit (Pharmaceutical Sciences) (Joint with Brian Paegel)** -
@@ -80,6 +81,8 @@ Anjali Dixit is a Pharmaceutical Sciences Ph.D. student who is co-advised by Dr.
 
 [LinkedIn](https://www.linkedin.com/in/anjali-dixit/) - [ORCiD](https://orcid.org/0000-0002-4997-8005)
 
+<br />
+<br />
 
 ### **Ana Caldaruse (Pharmaceutical Sciences)** -
 
@@ -89,14 +92,19 @@ Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa 
 
 [UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
 
-### **Aakankschit Nandkeolyar (Pharmaceutical Sciences)** -
+<br />
+<br />
 
+### **Aakankschit Nandkeolyar (Pharmaceutical Sciences)** -
 
 <img src="{{site.baseurl}}/assets/img/anandkeo.jpeg" alt="anandkeo" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engineering from Drexel University in Philadelphia. He completed an internship with the automation team at GLaxoSmithkline (GSK) where he found an interest in the pharmaceutical sciences. AK worked on curating a dataset of physical properties for the blind challenge series SAMPL (Statistical Assessment of Modeling of Proteins and Ligands). AK continued his collaboration with GSK through his graduate research at Drexel, which focused on building machine learning models to predict clinical outcomes in patients based on data obtained from quantitative systems pharmacology models. At the Mobley Lab, he continues to work on the SAMPL project evaluating different modeling methods for accuracy in predicting physical properties.
 
 [LinkedIn](https://www.linkedin.com/in/aakankschit-nandkeolyar-838b0b126/)
+
+<br />
+<br />
 
 ### **Meghan Osato (Pharmaceutical Sciences)** -
 
@@ -106,6 +114,14 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 
 [LinkedIn](https://www.linkedin.com/in/meghan-osato-bb3b06153/ )
 
+<br />
+<br />
+
+## **Undergraduate Students**
+
+### **Melissa Plata (Pharmaceutical Sciences)** 
+### **Evien Cheng (Pharmaceutical Sciences)**
+### **Jennifer Huang (Pharmaceutical Sciences)**
 
 ## **Alumni**
 
@@ -119,7 +135,7 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 |Dr. Gaetano Calabró|Postdoc (2017)|Scientific software development with OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
 |Dr. Sukanya Sasmal| Postdoc (2017-2019)|pharma; molecular modeling|
 |Dr. Lea El Khoury|Postdoc (2017-2021)|Team Leader in Molecular Modeling at Qubit Pharmaceuticals|
-|Dr. Yunhui Ge | Postdoc (2020-2022) | Postdoc, Janssen Pharmaceuticals |
+|Dr. Yunhui Ge | Postdoc (2020-2022) | Scientist at Alkermes |
 |Dr. Mary Pitman | Postdoc (2021-2023) | Scientist at Sandbox AQ | 
 |------------|--------------|----------------|
 |Dr. Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
@@ -127,14 +143,14 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 |Dr. Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
 |Dr. Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
 |Dr. Nathan Lim| Graduate Student (2014-2019)|Scientist, Janssen Pharmaceuticals in San Diego|
-|Dr. Kalistyn Burley| Graduate Student (2015-2020)|Computational Chemist,Neomorph|
+|Dr. Kalistyn Burley| Graduate Student (2015-2020)|Applications Scientist at OpenEye, Cadence Molecular Sciences|
 |Dr. Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
 |Dr. Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
 |Dr. Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
-|Dr. David Wych|Graduate Student (2016-2021)|Scientist, Los Alamos National Laboratory|
+|Dr. David Wych|Graduate Student (2016-2021)|Scientific Developer II — cryoEM — OpenEye Scientific, Cadence Molecular Sciences|
 |Jessica Maat | Graduate Student (2017-2022) | TBA |
 |Dr. T. Danielle Bergazin | Graduate Student (2017-2022) | Senior Cheminformatics Engineer, Booz Allen Hamilton |
-|Oahn Tran |Graduate Student (2018-2023)|Chemiformatician|
+|Oanh Tran |Graduate Student (2018-2023)|Harmonic Discovery Cheminformatics Intern|
 |Dr. Hannah Baumann | Graduate Student (2018-2023) | Postdoc at OpenFreeEnergy |
 |-------------|-------------|--------------|
 |Anasuya Kolavennu| Masters Student (UNO)|She is currently a high school teacher in India|
@@ -145,30 +161,15 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 |Zuzana Jandova|Visiting Scholar (2018)|From Chris Oostenbrink’s group in Vienna|
 |Max Riquelme|Visiting Scholar (2017)|From Esteban Vöhringer-Martinez’s group in Chile|
 |Stefania Evoli|Visiting Scholar|Application Scientist, Chemical Computing Group.|
-|Daan Jiskoot |Visiting Scholar|From University of Leiden|
-|Linde Schoenmaker |Visiting Scholar|From University of Leiden|
+|Daan Jiskoot |Visiting Scholar|Masters student from University of Leiden|
+|Linde Schoenmaker |Visiting Scholar|PhD student from University of Leiden|
 |-------------|-------------|--------------|
+|Mel Bedolla Loaiza | Undergraduate student | TBA |
 |Jordan Ehrman | Undergraduate student | Ph.D. student, University of Washington |
-|Daisy Kyu|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences and is in pharmacy school at the University of Southern California.|
-|Nam Thi|Undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is in pharmacy school at Loma Linda University School of Pharmacy.|
-|Kevin Hoang|undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is pursuing pharmacy school.|
-|Karisa Wymer|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences at UCI and is attending Pharmacy school at University of California, San Francisco.|
-|Kim Keyes|Undergraduate Student (UNO)|Chemical analyst at Eurofins in New Orleans.|
-|Vivian Jaber|Undergraduate Student (UNO)|MD/Ph.D. student at Louisiana State University in New Orleans.|
-|Sheldon Williams|Undergraduate Student (UNO)|Finished his undergraduate degree at Southern University in New Orleans.|
-|Yu Xuan “Luna” Liu|Undergraduate Student (UNO)|Graduate student in oriental medicine.|
-|Christopher D. Savoie|Undergraduate Student (UNO)|Completed his M.S. degree in Chemistry at Boston University with Tom Keyes and is working as a Nuclear Officer for the U.S. Navy.|
-|-------------|-------------|--------------|
-|Anasuya Kolavennu| Masters Student (UNO)|She is currently a high school teacher in India|
-|Jessica Fuselier|Masters Student (UNO)|She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
-|Hanh Nguyen|Masters Student|Obtained a position at a R&D laboratory.|
-Noora Siddiqui|Masters Student|Currently working in Baylor College of Medicine as a Programmer Analyst.|
-|Lily Wang| Fullbright Visiting Scholar (2021)|Science Lead, Open Force Field Initiative|
-|Zuzana Jandova|Visiting Scholar (2018)|From Chris Oostenbrink’s group in Vienna|
-|Max Riquelme|Visiting Scholar (2017)|From Esteban Vöhringer-Martinez’s group in Chile|
-|Stefania Evoli|Visiting Scholar|Application Scientist, Chemical Computing Group.|
-|-------------|-------------|--------------|
-|Jordan Ehrman | Undergraduate student | Ph.D. student, University of Washington |
+|Byron Tjanaka | Undergraduate student | TBA |
+|Amanda Nguyen| Undergraduate student | PhD student, Pharmacological Sciences UCI|
+|Linh Nguyen | Undergraduate student | PharmD student, Chapman University|
+|James Hariyanto| Undergraduate student | PharmD student, Western University|
 |Daisy Kyu|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences and is in pharmacy school at the University of Southern California.|
 |Nam Thi|Undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is in pharmacy school at Loma Linda University School of Pharmacy.|
 |Kevin Hoang|undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is pursuing pharmacy school.|
