@@ -38,6 +38,8 @@ Swapnil received his M.Sc. Integrated degree in Chemistry from IIT Kanpur, India
 
 ### **Suleyman Selim** - 
 
+Selim received MSc in medical biotechnology with expertise in structural bioinformatics at the University of Acibadem and PhD in computational biochemistry from the University of Oxford. Before pursuing his PhD, Selim also worked as a bioinformatician at Eternans LTD, where he employed computational techniques to investigate potential therapeutic agents for anti-ageing therapies. Selim uses versatile computational techniques, including ligand- and structure-based virtual screening tools, molecular dynamics simulations, and free energy prediction methods. His interest is mostly related to molecular dynamics simulations for understanding the behaviour of biomolecules and their interactions at the atomic level, and also estimating thermodynamic quantities by using these simulations to gain knowledge about microscopic details and relate thermodynamic measurements to physical interactions. Selim joined Mobley Lab in 2023 as a postdoctoral fellow, to work on developing effective approaches to binding pose predictions for protein-ligand systems.
+
 <br />
 <br />
 
