@@ -36,6 +36,17 @@ Swapnil received his M.Sc. Integrated degree in Chemistry from IIT Kanpur, India
 <br />
 <br />
 
+### **Alžbeta Kubincová** -
+
+<img src="{{site.baseurl}}/assets/img/akubincova.jpg" alt="akubincova" width="200" style="float:left;padding-right: 20px;padding-bottom: 10px">
+
+Alžbeta graduated in Chemistry from ETH Zürich in Switzerland, and obtained her Ph.D. at the same institution in the group of Prof. Philippe Hünenberger, working on adaptive-resolution simulations and force-field development and parameterization. In 2021, she moved to Exscientia in the UK to work on active learning workflows for relative binding free energy calculations. After a brief stint in a software engineering role back in Switzerland, she joined Mobley Lab in 2024 to work on active learning approaches to inform the construction of DNA-encoded libraries.
+
+[LinkedIn](https://www.linkedin.com/in/al%C5%BEbeta-kubincov%C3%A1/)
+
+<br />
+<br />
+
 ### **Suleyman Selim** - 
 
 <br />
