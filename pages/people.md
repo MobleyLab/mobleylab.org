@@ -102,7 +102,10 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 
 ## **Undergraduate Students**
 
+
 **Melissa Plata (Pharmaceutical Sciences)** 
+
+
 **Evien Cheng (Pharmaceutical Sciences)**
 
 ## **Alumni**
