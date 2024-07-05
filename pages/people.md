@@ -102,12 +102,12 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 
 ## **Undergraduate Students**
 
-### **Melissa Plata (Pharmaceutical Sciences)** 
-### **Evien Cheng (Pharmaceutical Sciences)**
+**Melissa Plata (Pharmaceutical Sciences)** 
+**Evien Cheng (Pharmaceutical Sciences)**
 
 ## **Alumni**
 
-| Name | Tensure in the Lab | Current Position |
+| Name | Tenure in the Lab | Current Position |
 |:------:|:-----------------:|:------------------:|
 |Dr. Jeff Wagner | Staff Scientist (2018-2020) | OMSF Consortium |
 |------------|--------------|----------------|
