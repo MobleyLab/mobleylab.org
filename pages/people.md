@@ -47,12 +47,6 @@ Alžbeta graduated in Chemistry from ETH Zürich in Switzerland, and obtained he
 <br />
 <br />
 
-### **Suleyman Selim** - 
-
-<br />
-<br />
-
-
 ## **Graduate Students**
 
 ### **Martin Amezcua (Pharmaceutical Sciences)** -
@@ -64,33 +58,11 @@ Martin Amezcua graduated from CSUF with a B.S. in Biochemistry. During this time
 <br />
 <br />
 
-### **Chris Zhang (Chemistry)** -
-
-<img src="{{site.baseurl}}/assets/img/chrisz1.jpeg" alt="chrisz1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Chris Zhang graduated from Harvard University with a Bachelors in Chemistry. During his undergrad, he worked in Alan Aspuru-Guzik’s lab applying machine learning methods to chemistry. He is currently developing computational tools to analyze DNA-encoded libraries.
-
-[LinkedIn](https://www.linkedin.com/in/chris-zhang-603308113/)
-
-<br />
-<br />
-
 ### **Trevor Gokey (Chemistry) (Joint with Ioan Andricioaei)** -
 
 <img src="{{site.baseurl}}/assets/img/tgokey.png" alt="tgokey" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
 Trevor Gokey earned an MS in Computer Science at San Francisco State University and a BA in Psychology from CSU Long Beach. He works with OpenFF to design force fields, where he focuses on efficient ways to encode and search chemical space. His interests are at the intersection of high performance computing and multiscale modeling. Outside of research, Trevor enjoys roasting coffee and perfecting espresso, building clusters, and pipe organs.
-
-<br />
-<br />
-
-### **Anjali Dixit (Pharmaceutical Sciences) (Joint with Brian Paegel)** -
-
-<img src="{{site.baseurl}}/assets/img/dixitaa.jpeg" alt="dixitaa" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Anjali Dixit is a Pharmaceutical Sciences Ph.D. student who is co-advised by Dr. David Mobley and Dr. Paegel. She graduated from the University of California Santa Barbara with BS in pharmacology and BA in psychology. In her undergraduate career, Anjali’s research centered around neuroimaging and decision-making research. In her graduate career, her project aims to strengthen the role of cheminformatic involvement in DNA-encoded library combinatorial synthesis and library design. Using machine learning tools, she hopes to inform future generations of library development towards rationally designed chemical space
-
-[LinkedIn](https://www.linkedin.com/in/anjali-dixit/) - [ORCiD](https://orcid.org/0000-0002-4997-8005)
 
 <br />
 <br />
@@ -130,24 +102,27 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 
 ## **Undergraduate Students**
 
-### **Melissa Plata (Pharmaceutical Sciences)** 
-### **Evien Cheng (Pharmaceutical Sciences)**
-### **Jennifer Huang (Pharmaceutical Sciences)**
+
+**Melissa Plata (Pharmaceutical Sciences)** 
+
+
+**Evien Cheng (Pharmaceutical Sciences)**
 
 ## **Alumni**
 
-| Name | Tensure in the Lab | Current Position |
+| Name | Tenure in the Lab | Current Position |
 |:------:|:-----------------:|:------------------:|
-|Dr. Jeff Wagner| Staff Scientist (2018-2020) | OMSF Consortium|
+|Dr. Jeff Wagner | Staff Scientist (2018-2020) | OMSF Consortium |
 |------------|--------------|----------------|
-|Dr. Adam Van Wart| Postdoc (2015)|Adjunct chemistry professor at several community colleges in Orange County, California.|
-|Dr. Sreeja Parameswaran| Postdoc| Senior Analyst in Bioinformatics, Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
-|Dr. Shun Zhu|Postdoc|Faculty member in the Department of Cellular and Genetic Medicine at Fudan University in China.|
-|Dr. Gaetano Calabró|Postdoc (2017)|Scientific software development with OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
-|Dr. Sukanya Sasmal| Postdoc (2017-2019)|pharma; molecular modeling|
-|Dr. Lea El Khoury|Postdoc (2017-2021)|Team Leader in Molecular Modeling at Qubit Pharmaceuticals|
+|Dr. Adam Van Wart | Postdoc (2015) |Adjunct chemistry professor at several community colleges in Orange County, California.|
+|Dr. Sreeja Parameswaran | Postdoc | Senior Analyst in Bioinformatics, Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
+|Dr. Shun Zhu | Postdoc | Faculty member in the Department of Cellular and Genetic Medicine at Fudan University in China.|
+|Dr. Gaetano Calabró | Postdoc (2017) | Scientific software development with OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
+|Dr. Sukanya Sasmal | Postdoc (2017-2019) | pharma; molecular modeling |
+|Dr. Lea El Khoury |Postdoc (2017-2021) | Team Leader in Molecular Modeling at Qubit Pharmaceuticals |
 |Dr. Yunhui Ge | Postdoc (2020-2022) | Scientist at Alkermes |
 |Dr. Mary Pitman | Postdoc (2021-2023) | Scientist at Sandbox AQ | 
+|Dr. Suleyman Selim | Postdoc (2023-2024) | Assistant Professor, Ege University|
 |------------|--------------|----------------|
 |Dr. Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
 |Dr. Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
@@ -163,24 +138,21 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 |Dr. T. Danielle Bergazin | Graduate Student (2017-2022) | Senior Cheminformatics Engineer, Booz Allen Hamilton |
 |Oanh Tran |Graduate Student (2018-2023)|Harmonic Discovery Cheminformatics Intern|
 |Dr. Hannah Baumann | Graduate Student (2018-2023) | Postdoc at OpenFreeEnergy |
+|Dr. Chris Zhang | Graduate Student (2018-2024) | Data Scientist at Meta|
+|Dr. Anjali Dixit | Graduate Student Joint with Dr. Brian Paegel (2019-2024) | TBA |
 |-------------|-------------|--------------|
-|Anasuya Kolavennu| Masters Student (UNO)|She is currently a high school teacher in India|
-|Jessica Fuselier|Masters Student (UNO)|She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
-|Hanh Nguyen|Masters Student|Obtained a position at a R&D laboratory.|
-|Noora Siddiqui|Masters Student|Currently working in Baylor College of Medicine as a Programmer Analyst.|
-|Lily Wang| Fullbright Visiting Scholar (2021)|Science Lead, Open Force Field Initiative|
-|Zuzana Jandova|Visiting Scholar (2018)|From Chris Oostenbrink’s group in Vienna|
-|Max Riquelme|Visiting Scholar (2017)|From Esteban Vöhringer-Martinez’s group in Chile|
-|Stefania Evoli|Visiting Scholar|Application Scientist, Chemical Computing Group.|
-|Daan Jiskoot |Visiting Scholar|Masters student from University of Leiden|
-|Linde Schoenmaker |Visiting Scholar|PhD student from University of Leiden|
+|Anasuya Kolavennu | Masters Student (UNO) | She is currently a high school teacher in India|
+|Jessica Fuselier | Masters Student (UNO) | She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
+|Hanh Nguyen | Masters Student| Obtained a position at a R&D laboratory.|
+|Noora Siddiqui | Masters Student | Currently working in Baylor College of Medicine as a Programmer Analyst.|
+|Lily Wang | Fullbright Visiting Scholar (2021) | Science Lead, Open Force Field Initiative|
+|Zuzana Jandova | Visiting Scholar (2018) | From Chris Oostenbrink’s group in Vienna|
+|Max Riquelme | Visiting Scholar (2017) | From Esteban Vöhringer-Martinez’s group in Chile|
+|Stefania Evoli | Visiting Scholar | Application Scientist, Chemical Computing Group.|
+|Daan Jiskoot | Visiting Scholar (2023) | Masters student from University of Leiden|
+|Linde Schoenmaker | Visiting Scholar (2023-2024) | PhD student from University of Leiden|
+|Fabian Sendzik | Visiting Scholar (2024) | PhD student from University of Dortmund|
 |-------------|-------------|--------------|
-|Mel Bedolla Loaiza | Undergraduate student | TBA |
-|Jordan Ehrman | Undergraduate student | Ph.D. student, University of Washington |
-|Byron Tjanaka | Undergraduate student | TBA |
-|Amanda Nguyen| Undergraduate student | PhD student, Pharmacological Sciences UCI|
-|Linh Nguyen | Undergraduate student | PharmD student, Chapman University|
-|James Hariyanto| Undergraduate student | PharmD student, Western University|
 |Daisy Kyu|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences and is in pharmacy school at the University of Southern California.|
 |Nam Thi|Undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is in pharmacy school at Loma Linda University School of Pharmacy.|
 |Kevin Hoang|undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is pursuing pharmacy school.|
@@ -190,3 +162,11 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 |Sheldon Williams|Undergraduate Student (UNO)|Finished his undergraduate degree at Southern University in New Orleans.|
 |Yu Xuan “Luna” Liu|Undergraduate Student (UNO)|Graduate student in oriental medicine.|
 |Christopher D. Savoie|Undergraduate Student (UNO)|Completed his M.S. degree in Chemistry at Boston University with Tom Keyes and is working as a Nuclear Officer for the U.S. Navy.|
+|James Hariyanto| Undergraduate student | PharmD student, Western University|
+|Linh Nguyen | Undergraduate student | Finished her B.S. degree in Pharmaceutical Sciences and is now a PharmD student, Chapman University|
+|Meghan Osato | Undergraduate student | Finished her B.S. degree in Pharmaceutical Sciences and is now a PhD Student, Pharmacological Sciences UCI|
+|Amanda Nguyen | Undergraduate student | Finished her B.S. degree in Pharmaceutical Sciences and is now a PhD student, Pharmacological Sciences UCI|
+|Byron Tjanaka | Undergraduate student | TBA |
+|Jordan Ehrman | Undergraduate student | Ph.D. student, University of Washington |
+|Mel Bedolla Loaiza | Undergraduate student | TBA |
+|Jennifer Huang | Undergraduate student | Finished her B.S. degree in Pharmaceutical Sciences |
