@@ -82,6 +82,20 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 <br />
 <br />
 
+### **Steven Ayoub (Pharmaceutical Sciences)** -
+
+<img src="{{site.baseurl}}/assets/img/sayoub.jpg" alt="sayoub" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Steven Ayoub grew up in the San Fernando Valley and earned his Master’s degree in Chemistry from California State University, Northridge, in 2023. His research focused on
+implementing an automated parallel Python workflow for absolute binding free energy calculations and integrating it with an implicit solvation model. After graduating, Steven 
+completed an internship at Cadence OpenEye Scientific, where he contributed to expanding and validating OpenEye tools for identifying potential off-targets of small drug
+molecules. At the Mobley Lab, Steven will focus on improving methods for accurately incorporating buried water molecules into protein-ligand binding affinity calculations.
+
+[LinkedIn](https://www.linkedin.com/in/steven-ayoub-79b30714a/ )
+
+<br />
+<br />
+
 ## **Undergraduate Students**
 
 
