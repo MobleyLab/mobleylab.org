@@ -96,6 +96,19 @@ molecules. At the Mobley Lab, Steven will focus on improving methods for accurat
 <br />
 <br />
 
+### **Maryam Heydari (Pharmaceutical Sciences)** -
+
+<img src="{{site.baseurl}}/assets/img/mheydari.jpg" alt="mheydari" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Maryam Heydari earned a B.Sc. in Chemistry and then an M.Sc. in Medicinal Chemistry from Ahvaz Jundishapur University of Medical Sciences. During and after her master’s, she 
+gained research experience in computational drug design, drug delivery, and medical analysis methods. Her passion for computational research led her to join the Mobley Lab in 
+2024, where she now focuses on solvation free energy calculation methods, and making computational approaches for solvation predictions more reliable and precise.
+
+[LinkedIn](https://www.linkedin.com/in/maryam-heydari-506419186/ )
+
+<br />
+<br />
+
 ## **Undergraduate Students**
 
 
