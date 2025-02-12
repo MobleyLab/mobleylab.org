@@ -109,6 +109,17 @@ gained research experience in computational drug design, drug delivery, and medi
 <br />
 <br />
 
+### **Luna Huynh (Computational Science)** -
+
+<img src="{{site.baseurl}}/assets/img/lhuynh.png" alt="lhuynh" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from Stevenson University in Maryland in 2022. She began her Ph.D. journey in 2023 in the joint doctoral program in Computational Science between San Diego State University and UC Irvine. During her first year, she worked with Dr. Yuezhi Mao at SDSU, focusing on developing Python scripts to enhance the process of identifying vibrational modes in large molecules. At the Mobley lab, she is currently working on predicting relative binding free energy of protein-carbohydrate complexes using Separated Topologies approach. Besides research, Luna enjoys biking, running, exploring new places and restaurants, and going to the beach to watch the sunset.
+
+[LinkedIn](https://www.linkedin.com/in/luna-huynh-477239225/ )
+
+<br />
+<br />
+
 ## **Undergraduate Students**
 
 
