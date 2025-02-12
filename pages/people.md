@@ -49,24 +49,6 @@ Alžbeta graduated in Chemistry from ETH Zürich in Switzerland, and obtained he
 
 ## **Graduate Students**
 
-### **Martin Amezcua (Pharmaceutical Sciences)** -
-
-<img src="{{site.baseurl}}/assets/img/amezcum1.png" alt="amezcum1" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Martin Amezcua graduated from CSUF with a B.S. in Biochemistry. During this time, under the tutelage of Dr. Nicholas Salzameda, his research work involved computational modeling and docking, synthesis, and evaluation of dipeptide small molecules as potential counter measures against Botulinum Neurotoxin-A. He entered UCI’s Pharmaceutical Sciences PhD program in 2018, where he joined the Mobley Lab. His current work is primarily on the SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands) challenges to test and study computational methods and tools for predicting binding thermodynamics of host-guest systems to help improve their accuracy for computer aided drug design.
-
-<br />
-<br />
-
-### **Trevor Gokey (Chemistry) (Joint with Ioan Andricioaei)** -
-
-<img src="{{site.baseurl}}/assets/img/tgokey.png" alt="tgokey" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Trevor Gokey earned an MS in Computer Science at San Francisco State University and a BA in Psychology from CSU Long Beach. He works with OpenFF to design force fields, where he focuses on efficient ways to encode and search chemical space. His interests are at the intersection of high performance computing and multiscale modeling. Outside of research, Trevor enjoys roasting coffee and perfecting espresso, building clusters, and pipe organs.
-
-<br />
-<br />
-
 ### **Ana Caldaruse (Pharmaceutical Sciences)** -
 
 <img src="{{site.baseurl}}/assets/img/acaldaru.png" alt="acaldaru" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
@@ -100,46 +82,87 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 <br />
 <br />
 
+### **Steven Ayoub (Pharmaceutical Sciences)** -
+
+<img src="{{site.baseurl}}/assets/img/sayoub.jpg" alt="sayoub" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Steven Ayoub grew up in the San Fernando Valley and earned his Master’s degree in Chemistry from California State University, Northridge, in 2023. His research focused on
+implementing an automated parallel Python workflow for absolute binding free energy calculations and integrating it with an implicit solvation model. After graduating, Steven 
+completed an internship at Cadence OpenEye Scientific, where he contributed to expanding and validating OpenEye tools for identifying potential off-targets of small drug
+molecules. At the Mobley Lab, Steven will focus on improving methods for accurately incorporating buried water molecules into protein-ligand binding affinity calculations.
+
+[LinkedIn](https://www.linkedin.com/in/steven-ayoub-79b30714a/ )
+
+<br />
+<br />
+
+### **Maryam Heydari (Pharmaceutical Sciences)** -
+
+<img src="{{site.baseurl}}/assets/img/mheydari.jpg" alt="mheydari" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Maryam Heydari earned a B.Sc. in Chemistry and then an M.Sc. in Medicinal Chemistry from Ahvaz Jundishapur University of Medical Sciences. During and after her master’s, she 
+gained research experience in computational drug design, drug delivery, and medical analysis methods. Her passion for computational research led her to join the Mobley Lab in 
+2024, where she now focuses on solvation free energy calculation methods, and making computational approaches for solvation predictions more reliable and precise.
+
+[LinkedIn](https://www.linkedin.com/in/maryam-heydari-506419186/ )
+
+<br />
+<br />
+
+### **Luna Huynh (Computational Science)** -
+
+<img src="{{site.baseurl}}/assets/img/lhuynh.png" alt="lhuynh" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
+
+Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from Stevenson University in Maryland in 2022. She began her Ph.D. journey in 2023 in the joint doctoral program in Computational Science between San Diego State University and UC Irvine. During her first year, she worked with Dr. Yuezhi Mao at SDSU, focusing on developing Python scripts to enhance the process of identifying vibrational modes in large molecules. At the Mobley lab, she is currently working on predicting relative binding free energy of protein-carbohydrate complexes using Separated Topologies approach. Besides research, Luna enjoys biking, running, exploring new places and restaurants, and going to the beach to watch the sunset.
+
+[LinkedIn](https://www.linkedin.com/in/luna-huynh-477239225/ )
+
+<br />
+<br />
+
 ## **Undergraduate Students**
 
 
 **Melissa Plata (Pharmaceutical Sciences)** 
 
-
 **Evien Cheng (Pharmaceutical Sciences)**
+
+**Jianna Ongsioco (Chemistry)**
 
 ## **Alumni**
 
 | Name | Tenure in the Lab | Current Position |
 |:------:|:-----------------:|:------------------:|
-|Dr. Jeff Wagner | Staff Scientist (2018-2020) | OMSF Consortium |
+|Dr. Jeff Wagner | Staff Scientist (2018-2020) | Infrastructure Lead at Open Force Field Initiative |
 |------------|--------------|----------------|
-|Dr. Adam Van Wart | Postdoc (2015) |Adjunct chemistry professor at several community colleges in Orange County, California.|
-|Dr. Sreeja Parameswaran | Postdoc | Senior Analyst in Bioinformatics, Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
+|Dr. Adam Van Wart | Postdoc (2015) | Professor of Chemistry at Motlow State Community College |
+|Dr. Sreeja Parameswaran | Postdoc | Lead Analyst in Bioinformatics, Cincinatti Children’s Hospital in the Center for Autoimmune Genomics and Etiology.|
 |Dr. Shun Zhu | Postdoc | Faculty member in the Department of Cellular and Genetic Medicine at Fudan University in China.|
-|Dr. Gaetano Calabró | Postdoc (2017) | Scientific software development with OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
-|Dr. Sukanya Sasmal | Postdoc (2017-2019) | pharma; molecular modeling |
-|Dr. Lea El Khoury |Postdoc (2017-2021) | Team Leader in Molecular Modeling at Qubit Pharmaceuticals |
+|Dr. Gaetano Calabró | Postdoc (2017) | Principal Scientific Software Developer at OpenEye Scientific Software in Santa Fe. Continues to collaborate with the Mobley Lab on MD-related software development.|
+|Dr. Sukanya Sasmal | Postdoc (2017-2019) | Research Scientist at Amazon |
+|Dr. Lea El Khoury |Postdoc (2017-2021) | Group Leader in Computational Chemistry at Qubit Pharmaceuticals |
 |Dr. Yunhui Ge | Postdoc (2020-2022) | Scientist at Alkermes |
-|Dr. Mary Pitman | Postdoc (2021-2023) | Scientist at Sandbox AQ | 
+|Dr. Mary Pitman | Postdoc (2021-2023), MolSSI Fellow | Staff Research Scientist at Sandbox AQ | 
 |Dr. Suleyman Selim | Postdoc (2023-2024) | Assistant Professor, Ege University|
 |------------|--------------|----------------|
 |Dr. Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
 |Dr. Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
 |Dr. Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
 |Dr. Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
-|Dr. Nathan Lim| Graduate Student (2014-2019)|Scientist, Janssen Pharmaceuticals in San Diego|
+|Dr. Nathan Lim| Graduate Student (2014-2019), MolSSI Fellow | Senior Scientist at Johnson & Johnson in San Diego|
 |Dr. Kalistyn Burley| Graduate Student (2015-2020)|Applications Scientist at OpenEye, Cadence Molecular Sciences|
-|Dr. Caitlin Bannan|Graduate Student (2014-2019)|Applications Scientist, OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
-|Dr. Sam Gill|Graduate Student (2014-2020)|Ventus Pharma, molecular modeling.|
+|Dr. Caitlin Bannan|Graduate Student (2014-2019), MolSSI Fellow | Manager in Scientific Research & Development at OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
+|Dr. Sam Gill|Graduate Student (2014-2020)| Principal Scientist at Ventus Therapeutics.|
 |Dr. Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
 |Dr. David Wych|Graduate Student (2016-2021)|Scientific Developer II — cryoEM — OpenEye Scientific, Cadence Molecular Sciences|
 |Jessica Maat | Graduate Student (2017-2022) | TBA |
 |Dr. T. Danielle Bergazin | Graduate Student (2017-2022) | Senior Cheminformatics Engineer, Booz Allen Hamilton |
 |Oanh Tran |Graduate Student (2018-2023)|Harmonic Discovery Cheminformatics Intern|
-|Dr. Hannah Baumann | Graduate Student (2018-2023) | Postdoc at OpenFreeEnergy |
+|Dr. Hannah Baumann | Graduate Student (2018-2023) | Scientific Software and Method Developer at Open Molecular Software Foundation |
 |Dr. Chris Zhang | Graduate Student (2018-2024) | Data Scientist at Meta|
 |Dr. Anjali Dixit | Graduate Student Joint with Dr. Brian Paegel (2019-2024) | TBA |
+|Dr. Martin Amezcua | Graduate Student (2018-2024) | TBA |
+|Dr. Trevor Gokey | Graduate Student Joint with Ioan Andricioaei (2019-2025) | TBA |
 |-------------|-------------|--------------|
 |Anasuya Kolavennu | Masters Student (UNO) | She is currently a high school teacher in India|
 |Jessica Fuselier | Masters Student (UNO) | She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
