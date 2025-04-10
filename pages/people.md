@@ -53,9 +53,10 @@ Alžbeta graduated in Chemistry from ETH Zürich in Switzerland, and obtained he
 
 <img src="{{site.baseurl}}/assets/img/acaldaru.png" alt="acaldaru" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
-Ana graduated with her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz in 2015. She did research in undergrad but didn’t feel ready for a PhD after graduation so she sought out research positions before applying to graduate school. She worked for a clinical trials company and in research at Cedars Sinai Medical Center where she studied the molecular mechanisms of heart failure and development of a blood based bioassay to determine disease progression. In 2020, Ana made the transition into the Pharmacological Sciences PhD program at UC Irvine and joined the Mobley lab. Her work focuses on testing ring breaking and formation using the Separated Topologies approach which cannot be handled by traditional relative binding free energy approaches. Being able to handle ligands with diverse scaffolds will broaden the scope of applicability of binding free energy approaches in the pharmaceutical industry. Besides research she likes to be involved in mentoring students to help ease their transition into graduate school. Other things that bring Ana joy are reading -- particularly dystopian novels, trying new coffee shops, and experiencing new cultures through travel and cuisine.
+Ana earned her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz. Unsure at first whether to continue in academia, she explored different career paths, including working as a clinical research associate at an early-phase clinical trials company and later as a research associate at Cedars-Sinai Medical Center, where she investigated the molecular mechanisms of heart failure and helped develop a blood-based assay for tracking disease progression.
+In 2020, Ana began her PhD in the Pharmacological Sciences program at UC Irvine and joined the Mobley lab, transitioning from hands-on experimental work to computational chemistry. Her research focuses on developing and applying Separated Topologies (SepTop), a method for predicting binding affinities of potential drug candidates to their targets. She is especially interested in combining SepTop with active learning, a machine learning approach that helps prioritize the most promising compounds, making the drug discovery process faster and more efficient—particularly when working with large and diverse sets of molecules. Ana is also passionate about making these powerful computational tools more accessible and widely adopted by the pharmaceutical industry. As a first-generation college student herself, she actively mentors other students from similar backgrounds to help them navigate the challenges of graduate school. In her free time, Ana enjoys reading (both fiction and nonfiction), exploring new cultures through food and travel, and spending time with her dog.
 
-[UCI email](acaldaru@uci.edu) - [GitHub](https://github.com/AnaCaldaruse) - [LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/) - [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-8239-5637)
+[LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/)
 
 <br />
 <br />
@@ -92,19 +93,6 @@ completed an internship at Cadence OpenEye Scientific, where he contributed to e
 molecules. At the Mobley Lab, Steven will focus on improving methods for accurately incorporating buried water molecules into protein-ligand binding affinity calculations.
 
 [LinkedIn](https://www.linkedin.com/in/steven-ayoub-79b30714a/ )
-
-<br />
-<br />
-
-### **Maryam Heydari (Pharmaceutical Sciences)** -
-
-<img src="{{site.baseurl}}/assets/img/mheydari.jpg" alt="mheydari" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Maryam Heydari earned a B.Sc. in Chemistry and then an M.Sc. in Medicinal Chemistry from Ahvaz Jundishapur University of Medical Sciences. During and after her master’s, she 
-gained research experience in computational drug design, drug delivery, and medical analysis methods. Her passion for computational research led her to join the Mobley Lab in 
-2024, where she now focuses on solvation free energy calculation methods, and making computational approaches for solvation predictions more reliable and precise.
-
-[LinkedIn](https://www.linkedin.com/in/maryam-heydari-506419186/ )
 
 <br />
 <br />
