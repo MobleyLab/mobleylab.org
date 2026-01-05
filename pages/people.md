@@ -25,17 +25,6 @@ Pavan Behara graduated in Chemical Engineering from Birla Institute of Technolog
 
 ## **Post-Doctoral Researchers**
 
-### **Swapnil Wagle** -
-
-<img src="{{site.baseurl}}/assets/img/swagle.jpeg" alt="swagle" width="200" style="float:left;padding-right: 20px;padding-bottom: 10px">
-
-Swapnil received his M.Sc. Integrated degree in Chemistry from IIT Kanpur, India, in 2015. After graduation, he moved to Germany for his Ph.D. in Computational Biophysics at the Max Planck Institute for Colloids and Interfaces, Potsdam, working on enhanced sampling free-energy calculations on protein-membrane systems. Thereafter, he joined Prof. Heather Carlson’s lab at University of Michigan as a postdoc in 2020, working on chemical similarity calculations of ligands and training machine learning models for protein binding sites similarity calculations. Swapnil joined Mobley Lab in 2022 as a postdoctoral fellow, to work on developing effective approaches for alchemical binding free-energy calculations of protein-ligand systems with buried water molecules. Swapnil aspires to become a successful computational chemist with expertise in machine learning, to accelerate modern day drug-discovery research.
-
-[LinkedIn](https://www.linkedin.com/in/wagleswapnil/)
-
-<br />
-<br />
-
 ### **Alžbeta Kubincová** -
 
 <img src="{{site.baseurl}}/assets/img/akubincova.jpg" alt="akubincova" width="200" style="float:left;padding-right: 20px;padding-bottom: 10px">
@@ -111,7 +100,7 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 ## **Undergraduate Students**
 
 
-**Melissa Plata (Pharmaceutical Sciences)** 
+**Conner Quint (Chemistry)** 
 
 **Evien Cheng (Pharmaceutical Sciences)**
 
@@ -121,6 +110,7 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 
 | Name | Tenure in the Lab | Current Position |
 |:------:|:-----------------:|:------------------:|
+|Dr. Swapnil Wagle | Postdoc (2022-2025) | TBD |
 |Dr. Jeff Wagner | Staff Scientist (2018-2020) | Infrastructure Lead at Open Force Field Initiative |
 |------------|--------------|----------------|
 |Dr. Adam Van Wart | Postdoc (2015) | Professor of Chemistry at Motlow State Community College |
@@ -164,12 +154,13 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 |Linde Schoenmaker | Visiting Scholar (2023-2024) | PhD student from University of Leiden|
 |Fabian Sendzik | Visiting Scholar (2024) | PhD student from University of Dortmund|
 |-------------|-------------|--------------|
+|Melissa Plata|Undergraduate Student|Ph.D. student, UCSF|
 |Daisy Kyu|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences and is in pharmacy school at the University of Southern California.|
 |Nam Thi|Undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is in pharmacy school at Loma Linda University School of Pharmacy.|
 |Kevin Hoang|undergraduate Student|Finished his B.S. degree in Pharmaceutical Sciences and is pursuing pharmacy school.|
-|Karisa Wymer|Undergraduate Student|Finished her B.S. degree in Pharmaceutical Sciences at UCI and is attending Pharmacy school at University of California, San Francisco.|
+|Karisa Wymer|Undergraduate Student|PharmD (UCSF), pharmacist|
 |Kim Keyes|Undergraduate Student (UNO)|Chemical analyst at Eurofins in New Orleans.|
-|Vivian Jaber|Undergraduate Student (UNO)|MD/Ph.D. student at Louisiana State University in New Orleans.|
+|Vivian Jaber|Undergraduate Student (UNO)|MD/Ph.D., medical resident at Emory|
 |Sheldon Williams|Undergraduate Student (UNO)|Finished his undergraduate degree at Southern University in New Orleans.|
 |Yu Xuan “Luna” Liu|Undergraduate Student (UNO)|Graduate student in oriental medicine.|
 |Christopher D. Savoie|Undergraduate Student (UNO)|Completed his M.S. degree in Chemistry at Boston University with Tom Keyes and is working as a Nuclear Officer for the U.S. Navy.|
