@@ -79,7 +79,10 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 Steven Ayoub grew up in the San Fernando Valley and earned his Master’s degree in Chemistry from California State University, Northridge, in 2023. His research focused on
 implementing an automated parallel Python workflow for absolute binding free energy calculations and integrating it with an implicit solvation model. After graduating, Steven 
 completed an internship at Cadence OpenEye Scientific, where he contributed to expanding and validating OpenEye tools for identifying potential off-targets of small drug
-molecules. At the Mobley Lab, Steven will focus on improving methods for accurately incorporating buried water molecules into protein-ligand binding affinity calculations.
+molecules. At the Mobley Lab, Steven has worked on improving methods for accurately incorporating buried water molecules into protein-ligand binding 
+affinity calculations, using RISM for water placement and equilibration. He also works on enhanced sampling and free energy calculations for ligand 
+binding modes, including work with NCMC. A collaboration with the Isaacs lab at the University of Maryland focuses on host-guest binding in acyclic 
+cucurbituril systems.
 
 [LinkedIn](https://www.linkedin.com/in/steven-ayoub-79b30714a/ )
 
