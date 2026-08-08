@@ -4,20 +4,36 @@ title: Jobs
 permalink: /jobs
 ---
 
+We are always glad to hear from motivated people interested in joining the group.
+Even when no formal opening is posted, positions often develop on short notice, so
+if the work here interests you we encourage you to submit an inquiry using the
+appropriate form below. In all cases, please also e-mail David Mobley to let him
+know you have submitted an inquiry.
+
 ## Postdoctoral researchers and software scientists
 
-<!-- If you are interested in a position as a postdoctoral researcher or software scientist in the Mobley Lab, please [fill this Google Form](https://forms.gle/YKEEGH6UNjKYmvvz8) (login will be required to upload attachments), and also e-mail David Mobley letting him know you've applied. Currently we are looking for people for:
-- Binding free energy calculations, both methodology and software
-- Force field work such as with the Open Force Field Initiative
-
-Current openings often involve close collaborations with industry researchers to help develop and test methods which will rapidly be deployed in the pharmaceutical industry. -->
-
-There are no openings for postdocs at the moment. You may also want to consider applying to the [Open Force Field Initiative](https://openforcefield.org/about/careers/openff/) and [Open Free Energy](https://openfree.energy/careers/). Both are run through the Open Molecular Software Foundation, so if you have strong software expertise you may want to consider [applying there as well](https://omsf.io/about/careers/).
+If you are interested in a postdoctoral or software scientist position in the
+Mobley Lab, please [submit a position inquiry
+here](https://docs.google.com/forms/d/e/1FAIpQLScT1eRKKihd6uyKm-T7jSYol69auC6P10q3irUqUEF3qXbn8w/viewform?usp=dialog)
+(a login is required to upload attachments), and also e-mail David Mobley letting
+him know you have applied. Work in the group frequently involves binding free
+energy calculations — both methodology and software — and force field
+development, often in close collaboration with industry researchers.
 
 ## Graduate students
 
-We take graduate students admitted through the Pharmaceutical Sciences and Chemistry Ph.D. programs. We do not take applications to the group directly. However, if you are interested in discussing opportunities in the group before or after applying, feel free to reach out.
+We take graduate students admitted through the Pharmaceutical Sciences and
+Chemistry Ph.D. programs, and do not admit students to the group directly.
+However, if you are interested in discussing opportunities in the group before or
+after applying to one of those programs, please [submit an inquiry
+here](https://docs.google.com/forms/d/e/1FAIpQLSf8cwP1IguwwK6BksfD-pZ7mCjRiRRBeEfKLxWtdAFIMHpBrw/viewform?usp=dialog)
+and e-mail David Mobley to let him know.
 
 ## Undergraduates
 
-We have openings for a limited number of undergraduate students in the group. Typically we only take students in their junior years or earlier, and we are typically looking for students with at least some level of programming experience, or at least demonstrated willingness to learn.
+We have openings for a limited number of undergraduate students in the group.
+Typically we only take students in their junior year or earlier, and we are
+usually looking for students with at least some programming experience, or at
+least a demonstrated willingness to learn. If that describes you, please [submit
+an inquiry here](https://docs.google.com/forms/d/e/1FAIpQLSf8cwP1IguwwK6BksfD-pZ7mCjRiRRBeEfKLxWtdAFIMHpBrw/viewform?usp=dialog)
+and e-mail David Mobley to let him know.

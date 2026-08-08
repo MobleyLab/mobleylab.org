@@ -105,9 +105,9 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 
 **Conner Quint (Chemistry)** 
 
-**Evien Cheng (Pharmaceutical Sciences)**
-
 **Jianna Ongsioco (Chemistry)**
+
+**Likhitha Battu (Computer Science and Engineering)**
 
 ## **Alumni**
 
@@ -129,11 +129,11 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 |Dr. Pavel Klimovich|Graduate Student (2009-2015)|Pavel is a man of mystery; he sends us postcards from random parts of the world, but he’s a man of secrecy and we have no idea what he is doing, other than that he is still in science somewhere.|
 |Dr. Shuai Liu|Graduate Student (2010-2015)|Drug discovery with XtalPi in the Boston area.|
 |Dr. Camilla Zenette|Graduate Student (2013-2019)|Bioinformatician, Agendia in the Irvine area|
-|Dr. Guilherme D. R. Matos|Graduate Student (2013-2019)|Postdoc, Prof. Robert C. Rizzo’s group at Stony Brook University in New York. Advancing docking techniques for predicting protein-ligand binding interactions.|
+|Dr. Guilherme D. R. Matos|Graduate Student (2013-2019)|Junior Researcher, Universidade de Brasília|
 |Dr. Nathan Lim| Graduate Student (2014-2019), MolSSI Fellow | Senior Scientist at Johnson & Johnson in San Diego|
 |Dr. Kalistyn Burley| Graduate Student (2015-2020)|Applications Scientist at OpenEye, Cadence Molecular Sciences|
 |Dr. Caitlin Bannan|Graduate Student (2014-2019), MolSSI Fellow | Manager in Scientific Research & Development at OpenEye Scientific Software Inc. Developing methods for crystal structure prediction using machine learning.|
-|Dr. Sam Gill|Graduate Student (2014-2020)| Principal Scientist at Ventus Therapeutics.|
+|Dr. Sam Gill|Graduate Student (2014-2020)| Corteva Agriscience|
 |Dr. Victoria Lim| Graduate Student (2015-2020)| Senior Technical Writer, Imply|
 |Dr. David Wych|Graduate Student (2016-2021)|Scientific Developer II — cryoEM — OpenEye Scientific, Cadence Molecular Sciences|
 |Jessica Maat | Graduate Student (2017-2022) | TBA |
@@ -175,3 +175,4 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 |Jordan Ehrman | Undergraduate student | Ph.D. student, University of Washington |
 |Mel Bedolla Loaiza | Undergraduate student | TBA |
 |Jennifer Huang | Undergraduate student | Finished her B.S. degree in Pharmaceutical Sciences |
+|Evien Cheng | Undergraduate student (2024-2026) | Graduate school, UCLA |
