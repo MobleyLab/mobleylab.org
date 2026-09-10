@@ -15,7 +15,7 @@ David Mobley did his undergraduate work in Physics at the University of Californ
 
 ## **Scientists**
 
-### **Pavan Behara** -
+### **Pavan Behara**
 
 <img src="{{site.baseurl}}/assets/img/pbehara.png" alt="pbehara" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -25,7 +25,7 @@ Pavan Behara graduated in Chemical Engineering from Birla Institute of Technolog
 
 ## **Post-Doctoral Researchers**
 
-### **Alžbeta Kubincová** -
+### **Alžbeta Kubincová**
 
 <img src="{{site.baseurl}}/assets/img/akubincova.jpg" alt="akubincova" width="200" style="float:left;padding-right: 20px;padding-bottom: 10px">
 
@@ -38,7 +38,7 @@ Alžbeta graduated in Chemistry from ETH Zürich in Switzerland, and obtained he
 
 ## **Graduate Students**
 
-### **Meghan Osato (Pharmaceutical Sciences)** -
+### **Meghan Osato (Pharmaceutical Sciences)**
 
 <img src="{{site.baseurl}}/assets/img/mosato.png" alt="mosato" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -49,7 +49,7 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 <br />
 <br />
 
-### **Steven Ayoub (Pharmaceutical Sciences)** -
+### **Steven Ayoub (Pharmaceutical Sciences)**
 
 <img src="{{site.baseurl}}/assets/img/sayoub.jpg" alt="sayoub" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -66,7 +66,7 @@ cucurbituril systems.
 <br />
 <br />
 
-### **Luna Huynh (Computational Science)** -
+### **Luna Huynh (Computational Science)**
 
 <img src="{{site.baseurl}}/assets/img/lhuynh.png" alt="lhuynh" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -80,11 +80,11 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 ## **Undergraduate Students**
 
 
-### **Conner Quint (Chemistry)** -
+### **Conner Quint (Chemistry)**
 
-### **Jianna Ongsioco (Chemistry)** -
+### **Jianna Ongsioco (Chemistry)**
 
-### **Likhitha Battu (Computer Science and Engineering)** -
+### **Likhitha Battu (Computer Science and Engineering)**
 
 Likhitha Battu is an undergraduate student studying Computer Science with a specialization in Intelligent Systems at the University of California, Irvine. She joined the Mobley Lab to explore how machine learning, molecular simulation, and scientific computing can accelerate drug discovery. As her first computational chemistry research experience, she has focused on building reproducible computational workflows for relative binding free energy calculations and molecular similarity analysis using GPU-accelerated simulations and high-performance computing.
 Her current work includes implementing and benchmarking TMD workflows for protein-ligand systems, developing automated analysis pipelines for molecular similarity using OpenEye 3D shape and color metrics, and evaluating free energy prediction methods across diverse protein targets. She is particularly interested in designing reliable computational tools, scalable scientific software, and reproducible workflows that enable large-scale molecular simulation and analysis.
