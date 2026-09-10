@@ -15,7 +15,7 @@ David Mobley did his undergraduate work in Physics at the University of Californ
 
 ## **Scientists**
 
-### **Pavan Behara** -
+### **Pavan Behara**
 
 <img src="{{site.baseurl}}/assets/img/pbehara.png" alt="pbehara" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -25,7 +25,7 @@ Pavan Behara graduated in Chemical Engineering from Birla Institute of Technolog
 
 ## **Post-Doctoral Researchers**
 
-### **Alžbeta Kubincová** -
+### **Alžbeta Kubincová**
 
 <img src="{{site.baseurl}}/assets/img/akubincova.jpg" alt="akubincova" width="200" style="float:left;padding-right: 20px;padding-bottom: 10px">
 
@@ -38,30 +38,7 @@ Alžbeta graduated in Chemistry from ETH Zürich in Switzerland, and obtained he
 
 ## **Graduate Students**
 
-### **Ana Caldaruse (Pharmaceutical Sciences)** -
-
-<img src="{{site.baseurl}}/assets/img/acaldaru.png" alt="acaldaru" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Ana earned her B.S. in Biochemistry and Molecular Biology from UC Santa Cruz. Unsure at first whether to continue in academia, she explored different career paths, including working as a clinical research associate at an early-phase clinical trials company and later as a research associate at Cedars-Sinai Medical Center, where she investigated the molecular mechanisms of heart failure and helped develop a blood-based assay for tracking disease progression.
-In 2020, Ana began her PhD in the Pharmacological Sciences program at UC Irvine and joined the Mobley lab, transitioning from hands-on experimental work to computational chemistry. Her research focuses on developing and applying Separated Topologies (SepTop), a method for predicting binding affinities of potential drug candidates to their targets. She is especially interested in combining SepTop with active learning, a machine learning approach that helps prioritize the most promising compounds, making the drug discovery process faster and more efficient—particularly when working with large and diverse sets of molecules. Ana is also passionate about making these powerful computational tools more accessible and widely adopted by the pharmaceutical industry. As a first-generation college student herself, she actively mentors other students from similar backgrounds to help them navigate the challenges of graduate school. In her free time, Ana enjoys reading (both fiction and nonfiction), exploring new cultures through food and travel, and spending time with her dog.
-
-[LinkedIn](https://www.linkedin.com/in/ana-maria-caldaruse-a6253183/)
-
-<br />
-<br />
-
-### **Aakankschit Nandkeolyar (Pharmaceutical Sciences)** -
-
-<img src="{{site.baseurl}}/assets/img/anandkeo.jpeg" alt="anandkeo" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
-
-Aakankschit (AK) Nandkeolyar graduated with a B.S. and M.S. in Biomedical Engineering from Drexel University in Philadelphia. He completed an internship with the automation team at GLaxoSmithkline (GSK) where he found an interest in the pharmaceutical sciences. AK worked on curating a dataset of physical properties for the blind challenge series SAMPL (Statistical Assessment of Modeling of Proteins and Ligands). AK continued his collaboration with GSK through his graduate research at Drexel, which focused on building machine learning models to predict clinical outcomes in patients based on data obtained from quantitative systems pharmacology models. At the Mobley Lab, he continues to work on the SAMPL project evaluating different modeling methods for accuracy in predicting physical properties.
-
-[LinkedIn](https://www.linkedin.com/in/aakankschit-nandkeolyar-838b0b126/)
-
-<br />
-<br />
-
-### **Meghan Osato (Pharmaceutical Sciences)** -
+### **Meghan Osato (Pharmaceutical Sciences)**
 
 <img src="{{site.baseurl}}/assets/img/mosato.png" alt="mosato" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -72,7 +49,7 @@ Meghan Osato graduated from UCI with a B.S. in Biological Sciences and a B.S. in
 <br />
 <br />
 
-### **Steven Ayoub (Pharmaceutical Sciences)** -
+### **Steven Ayoub (Pharmaceutical Sciences)**
 
 <img src="{{site.baseurl}}/assets/img/sayoub.jpg" alt="sayoub" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -89,7 +66,7 @@ cucurbituril systems.
 <br />
 <br />
 
-### **Luna Huynh (Computational Science)** -
+### **Luna Huynh (Computational Science)**
 
 <img src="{{site.baseurl}}/assets/img/lhuynh.png" alt="lhuynh" width="200" style="float:left;padding-right: 20px;padding-bottom: 5px">
 
@@ -103,11 +80,18 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 ## **Undergraduate Students**
 
 
-**Conner Quint (Chemistry)** 
+### **Conner Quint (Chemistry)**
 
-**Jianna Ongsioco (Chemistry)**
+### **Jianna Ongsioco (Chemistry)**
 
-**Likhitha Battu (Computer Science and Engineering)**
+### **Likhitha Battu (Computer Science and Engineering)**
+
+Likhitha Battu is an undergraduate student studying Computer Science with a specialization in Intelligent Systems at the University of California, Irvine. She joined the Mobley Lab to explore how machine learning, molecular simulation, and scientific computing can accelerate drug discovery. As her first computational chemistry research experience, she has focused on building reproducible computational workflows for relative binding free energy calculations and molecular similarity analysis using GPU-accelerated simulations and high-performance computing.
+Her current work includes implementing and benchmarking TMD workflows for protein-ligand systems, developing automated analysis pipelines for molecular similarity using OpenEye 3D shape and color metrics, and evaluating free energy prediction methods across diverse protein targets. She is particularly interested in designing reliable computational tools, scalable scientific software, and reproducible workflows that enable large-scale molecular simulation and analysis.
+Outside the lab, Likhitha enjoys building machine learning systems, participating in hackathons, mentoring students through STEM outreach, and exploring the intersection of artificial intelligence and scientific discovery. She hopes to pursue a career developing reliable AI and computational methods that accelerate scientific research.
+
+<br />
+<br />
 
 ## **Alumni**
 
@@ -144,6 +128,8 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 |Dr. Anjali Dixit | Graduate Student Joint with Dr. Brian Paegel (2019-2024) | TBA |
 |Dr. Martin Amezcua | Graduate Student (2018-2024) | TBA |
 |Dr. Trevor Gokey | Graduate Student Joint with Ioan Andricioaei (2019-2025) | TBA |
+|Dr. Ana Caldaruse | Graduate Student (2020-2026) | Vividion Therapeutics |
+|Dr. Aakankschit Nandkeolyar | Graduate Student (2021-2026) | OpenEye, Cadence Molecular Sciences |
 |-------------|-------------|--------------|
 |Anasuya Kolavennu | Masters Student (UNO) | She is currently a high school teacher in India|
 |Jessica Fuselier | Masters Student (UNO) | She is currently pursuing a second M.S. degree in bioinformatics at IUPUI.|
