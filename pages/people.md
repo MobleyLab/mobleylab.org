@@ -84,6 +84,11 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 
 ### **Jianna Ongsioco (Chemistry)**
 
+Jianna Ongsioco is an undergraduate at UCI studying Chemistry with a concentration in Theoretical and Computational Chemistry and Quantum Science. At the Mobley Lab, she is currently working on molecular dynamics simulations and binding free energy calculations of protein-ligand interactions. After graduation, Jianna hopes to pursue a PhD in computational chemistry. Outside of the lab, she enjoys fiber arts (especially cross-stitch and crochet), reading, watching movies, and playing video games.
+
+<br />
+<br />
+
 ### **Likhitha Battu (Computer Science and Engineering)**
 
 Likhitha Battu is an undergraduate student studying Computer Science with a specialization in Intelligent Systems at the University of California, Irvine. She joined the Mobley Lab to explore how machine learning, molecular simulation, and scientific computing can accelerate drug discovery. As her first computational chemistry research experience, she has focused on building reproducible computational workflows for relative binding free energy calculations and molecular similarity analysis using GPU-accelerated simulations and high-performance computing.
