@@ -82,7 +82,17 @@ Kim Ngan (Luna) graduated with a B.S. in Chemistry and Applied Mathematics from 
 
 ### **Conner Quint (Chemistry)**
 
+Conner Quint is an undergraduate studying Chemistry with a concentration in Chemical Biology and a specialization in Medicinal Chemistry. He joined the Mobley Lab to learn about computational chemistry’s usefulness in the pharmaceutical industry and to experience using the tools used to do so. Currently, he has been learning to model protein-ligand interactions to help determine the best fitting molecules for specific receptors. Beyond the lab, Conner is exploring the clinical side of pharmacy, particularly by receiving pharmacy technician education in order to work as one. He aims to discover his options for a career in pharmacy and wants to work towards receiving a Pharm.D.
+
+<br />
+<br />
+
 ### **Jianna Ongsioco (Chemistry)**
+
+Jianna Ongsioco is an undergraduate at the University of California, Irvine, studying Chemistry with a concentration in Theoretical and Computational Chemistry and Quantum Science. At the Mobley Lab, she is currently working on molecular dynamics simulations and binding free energy calculations of protein-ligand interactions. After graduation, Jianna hopes to pursue a Ph.D. in computational chemistry. Outside of the lab, she enjoys fiber arts (especially cross-stitch and crochet), reading, watching movies, and playing video games.
+
+<br />
+<br />
 
 ### **Likhitha Battu (Computer Science and Engineering)**
 
